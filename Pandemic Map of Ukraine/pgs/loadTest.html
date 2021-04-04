@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="author" content="">
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body onLoad="loadjson()">
+<!-- <body onLoad="local()"> -->
+
+<div id="n1"></div>
+<div id="n2"></div>
+<div id="n3"></div>
+<div id="n4"></div>
+<div id="n5"></div>
+
+<script>
+    function local() 
+    {
+        var data = '{  "url": "https://covid19.gov.ua/en",  "selectors": "*:nth-child(1) > *:nth-child(1) > * > * > *:nth-child(2) > *:nth-child(2),*:nth-child(1) > *:nth-child(1) > *:nth-child(3) > *:nth-child(2),*:nth-child(1) > * > * > * > *:nth-child(4) > *:nth-child(2),*:nth-child(1) > *:nth-child(5) > *:nth-child(2),*:nth-child(6) > *:nth-child(2)",  "contents": [    {      "innerText": "1 711 630"    },    {      "innerText": "19 893"    },    {      "innerText": "1 333 370"    },    {      "innerText": "33 679"    },    {      "innerText": "8 238 849"    }  ]}';
+        var jsonData = JSON.parse(data);   
+        console.log(jsonData['contents'][4]['innerText']);
+    }
+
+    function loadjson()
+    {
+        /*
+            used site:   https://cloudquery.t9t.io/ - turns any webpage to API;
+            target page: https://covid19.gov.ua/en/ - contains the necessary information.
+        */
+    
+        fetch('https://cloudquery.t9t.io/query?url=https%3A%2F%2Fcovid19.gov.ua%2Fen&selectors=*:nth-child(1)%20%3E%20*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(2)%20%3E%20*:nth-child(2),*:nth-child(1)%20%3E%20*:nth-child(1)%20%3E%20*:nth-child(3)%20%3E%20*:nth-child(2),*:nth-child(1)%20%3E%20*%20%3E%20*%20%3E%20*%20%3E%20*:nth-child(4)%20%3E%20*:nth-child(2),*:nth-child(1)%20%3E%20*:nth-child(5)%20%3E%20*:nth-child(2),*:nth-child(6)%20%3E%20*:nth-child(2)')
+        .then((response) => {
+            return response.json();
+        })
+        .then((data) => {
+            document.getElementById("n1").innerHTML = data['contents'][0]['innerText'];
+            document.getElementById("n2").innerHTML = data['contents'][1]['innerText'];
+            document.getElementById("n3").innerHTML = data['contents'][2]['innerText'];
+            document.getElementById("n4").innerHTML = data['contents'][3]['innerText'];
+            document.getElementById("n5").innerHTML = data['contents'][4]['innerText'];
+            // console.log(data['contents'][0]['innerText']);
+        });
+    }
+</script>
+
+</body>
+</html>
