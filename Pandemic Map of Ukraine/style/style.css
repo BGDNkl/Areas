@@ -20,7 +20,7 @@ body {
     height: 100%;
     width: 100%;
     padding-right: 10px;
-    border-radius: 8px;
+    border-radius: 3px;
     background-color: #343A40;
     transition: all .5s ease-in-out;
     box-shadow: 0 1px 2px 0 rgba(0,0,0,.15);
@@ -55,7 +55,7 @@ table, tr, th, td {
 }
 
 #ico_cntr {
-    text-align: center;; 
+    text-align: center; 
 }
 
 #tab {   
@@ -80,7 +80,7 @@ table, tr, th, td {
     outline: none;
     color: #fff;
     border: none;
-    border-radius: 9px;
+    border-radius: 5px;
     margin-bottom: 2.5%;
     box-shadow: 0 9px #999;
     transition: .5s ease;
@@ -90,14 +90,14 @@ table, tr, th, td {
     background-color: #56606b;
     -webkit-transform: translateX(-3px);
     transform: translateX(-3px);
-    transition: .5s ease;
+    transition: .47s ease;
     transform: scale(0.98);
 }
 
 #my_btn:active {
     box-shadow: 0 5px #666;
     transform: translateY(8px) scale(0.98);
-    transition: .5s ease;
+    transition: .25s ease;
 }
 
 #hide {
@@ -116,7 +116,8 @@ table, tr, th, td {
     font-size: 1em;
     font-weight: 550;
     overflow: hidden;
-    background: rgb(241, 241, 241);
+    /* background: #343a3f; */ /* ver without footer */
+    background: #f3f3d7;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -133,7 +134,8 @@ table, tr, th, td {
     font-size: 1em;
     font-weight: 550;
     overflow: hidden;
-    background: linear-gradient(to right, rgb(255, 244, 88), rgb(170, 170, 170) 50%, rgb(241, 241, 241) 50%);
+    /* background: linear-gradient(to right, rgb(255, 244, 88), rgb(170, 170, 170) 50%, #343a3f 50%); */ /* ver without footer */
+    background: linear-gradient(to right, rgb(255, 244, 88), rgb(170, 170, 170) 50%, #f3f3d7 50%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -167,12 +169,13 @@ table, tr, th, td {
 
 h2 {
     color: #343A40;
-    transition: 0.5s ease;
+    text-align: center;
+    transition: 0.5s ease;  
     text-shadow: 0px 0px 2px #9b9b9b;
+    margin-bottom: 10%;
 }
 
 h2:hover {
-    /* text-shadow: 0px 1px 2px #ffd61d; */
     text-shadow: 1px 2px 2px #9b9b9b;
     -webkit-transform: scale(1.01);
     -ms-transform: scale(1.01);
@@ -187,16 +190,16 @@ h2:hover {
 }
 
 #ftr {
-    font-size: 110%; 
+    font-size: 105%; 
     width: 55%;
     float: center !important; 
     margin-left: 41%;
     margin-top: 15% !important;   
-    height: 5%;
-    border-radius: 8px;
+    height: 4.85%;
+    border-radius: 2px;
     background-color: #343A40;
     transition: all .2s ease-in-out;
-    box-shadow: 0 5px 8px 0 rgba(0,0,0,.15);
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,.15);
 }
 
 #ftr:hover {
@@ -209,8 +212,19 @@ h2:hover {
     transition: 1s ease; 
 }
 
+#woftr {
+    font-size: 105%; 
+    width: 55%;
+    float: center !important; 
+    margin-left: 41%;
+    margin-top: 15% !important;   
+    height: 4.85%;
+    border-radius: 2px;
+    background-color: #f3f3d7;
+}
+
 #frm {
-    border-radius: 15px;
+    border-radius: 4px;
     transition: all .2s ease-in-out;
 }
 
