@@ -1,0 +1,1732 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="csrf-param" content="_csrf">
+<meta name="csrf-token" content="49JA1c4TKKp-d4ZVHl-Ikq-x_QGXi0KDoJb3DtnTVD6N4m2gqXwekgou0TlBFubq3-DPWaf7c-vpo4E4nOYFUg==">
+<title>Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV</title>
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" href="/static/moz_favicon.png">
+<meta property="og:title" content="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
+<meta property="og:description" content="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
+<meta property="og:url" content="http://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-cov19">
+<meta property="og:image" content="http://moz.gov.ua/uploads/5/28029-19466_32.jpeg">
+<meta property="og:image:width" content="1024">
+<meta property="og:image:height" content="512">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
+<meta name="twitter:description" content="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
+<meta name="twitter:image" content="http://moz.gov.ua/uploads/5/28029-19466_32.jpeg">
+<link href="https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-cov19" rel="canonical">
+<link href="/compress/all-129cf94ba800452b96f02c8fb7f2d418.css?v=1587128127" rel="stylesheet"> 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-107707226-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-107707226-1');
+</script>
+</head>
+<body class="">
+<div class="svg-container" style="position: absolute; width: 0; height: 0; overflow: hidden;"><svg xmlns="http://www.w3.org/2000/svg"><symbol id="icon-vintage-logo" viewBox="0 0 84.1 115.5"><style>.st0{fill:#c0bfbe}</style><g><path d="M21.7 0H0l5.1 19.8h21.5z" /><path d="M63.2 0L33.7 115.5h21L84.1 0z" /></g></symbol></svg>
+<svg style="position: absolute; width: 0; height: 0;" width="0" height="0" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<symbol id="icon__linkedin" viewBox="0 0 58.1 58.1">
+<path d="M1.2,58.1 13.1,58.1 13.1,19.4 1.2,19.4"></path>
+<path d="M7.1,14.3c3.9,0,7.1-3.2,7.1-7.2S11,0,7.1,0C3.2,0,0,3.2,0,7.1S3.2,14.3,7.1,14.3z"></path>
+<path d="M32.3,37.7c0-5.4,2.5-8.7,7.3-8.7c4.4,0,6.5,3.1,6.5,8.7s0,20.3,0,20.3h11.9c0,0,0-14.1,0-24.5S52.2,18.2,44,18.2c-8.2,0-11.7,6.4-11.7,6.4v-5.2H20.8v38.7h11.5C32.3,58.1,32.3,43.7,32.3,37.7z"></path>
+</symbol>
+<symbol id="icon__google" viewBox="0 0 128 81.5">
+<path d="M40.7,32.7v16.1c0,0,15.6,0,22,0c-3.4,10.5-8.8,16.2-22,16.2c-13.3,0-23.7-10.8-23.7-24.2s10.4-24.2,23.7-24.2c7.1,0,11.6,2.5,15.8,5.9c3.3-3.3,3.1-3.8,11.6-11.9C60.8,4,51.2,0,40.7,0C18.2,0,0,18.2,0,40.7s18.2,40.7,40.7,40.7c33.6,0,41.8-29.3,39-48.8C79.7,32.7,40.7,32.7,40.7,32.7z M113.9,33.5V19.4h-10.1v14.1H89.4v10.1h14.5v14.5h10.1V43.5H128V33.5H113.9z"></path>
+</symbol>
+<symbol id="icon__twitter" viewBox="0 0 24 20">
+<path d="M23.9,2.4c-0.2-0.2-0.4-0.2-0.6-0.1c-0.2,0.1-0.5,0.2-0.8,0.3c0.4-0.5,0.7-1,0.9-1.6c0.1-0.3-0.1-0.5-0.4-0.6c-0.1,0-0.3,0-0.4,0.1c-0.8,0.4-1.6,0.8-2.5,1C19.1,0.5,17.8,0,16.5,0c-1.1,0-2.1,0.3-3,0.9C11.6,2,11.3,4.5,11.4,6c-3.5-0.3-6.8-2-9-4.8C2.3,1.1,2.2,1,2,1C1.8,1,1.7,1.1,1.6,1.3C0.6,3,0.7,5.3,1.8,7C1.7,6.9,1.5,6.7,1.4,6.6c-0.2-0.2-0.5-0.2-0.7,0C0.5,6.7,0.5,6.9,0.5,7c0,1.9,1,3.6,2.5,4.6l-0.4-0.1c-0.3-0.1-0.5,0.1-0.6,0.3c0,0.1,0,0.2,0,0.3c0.8,1.8,2.3,3.1,4.2,3.6c-1.7,1-3.7,1.4-5.6,1.2C0.3,17,0,17.2,0,17.4c0,0.2,0.1,0.4,0.2,0.5C2.6,19.3,5.3,20,8,20l0,0c3.8,0,7.5-1.7,10-4.6c2.5-2.7,3.8-6.3,3.6-9.9c0.9-0.7,1.7-1.5,2.3-2.4C24,2.8,24,2.6,23.9,2.4z"></path>
+</symbol>
+<symbol id="icon__contrast" viewbox="0 0 893 893">
+<path d="M130.8,130.8c-41,41-73.2,88.7-95.7,141.9C11.8,327.8,0,386.2,0,446.5s11.8,118.7,35.1,173.8 c22.5,53.2,54.7,100.9,95.7,141.9c41,41,88.7,73.2,141.9,95.7c55.1,23.3,113.5,35.1,173.8,35.1s118.7-11.8,173.8-35.1 c53.2-22.5,100.9-54.7,141.9-95.7c41-41,73.2-88.7,95.7-141.9c23.3-55.1,35.1-113.5,35.1-173.8s-11.8-118.7-35.1-173.8 c-22.5-53.2-54.7-100.9-95.7-141.9s-88.7-73.2-141.9-95.7C565.2,11.8,506.8,0,446.5,0S327.8,11.8,272.7,35.1 C219.5,57.6,171.8,89.8,130.8,130.8z M446.5,818c-99.2,0-192.5-38.6-262.7-108.8S75,545.7,75,446.5S113.6,254,183.8,183.8 S347.3,75,446.5,75V818z"></path>
+</symbol>
+<symbol id="icon__clip" viewBox="0 0 64 103.7">
+<path d="M58,73.1c0,14.2-11.8,26-26,26S6,87.3,6,73.1V23.5C6,13.1,14.5,4.6,24.9,4.6s18.9,8.5,18.9,18.9v40.2 c0,6.6-5.2,11.8-11.8,11.8s-11.8-5.2-11.8-11.8V28.2h7.1v35.4c0,2.8,1.9,4.7,4.7,4.7c2.8,0,4.7-1.9,4.7-4.7V23.5 c0-6.6-5.2-11.8-11.8-11.8s-11.8,5.2-11.8,11.8v49.6C13.1,83.5,21.6,92,32,92s18.9-8.5,18.9-18.9V28.2H58L58,73.1z"></path>
+</symbol>
+<symbol id="icon__arrow_goto" viewBox="0 0 32 22">
+<path d="M32 11c0-.3-.1-.5-.3-.7L21.8.3c-.4-.4-1-.4-1.4 0-.4.4-.4 1 0 1.4l8.2 8.3H1c-.6 0-1 .5-1 1s.4 1 1 1h27.6l-8.2 8.3c-.4.4-.4 1 0 1.4.4.4 1 .4 1.4 0l9.9-10c.2-.2.3-.4.3-.7z"></path>
+</symbol>
+<symbol id="icon__arrow_small" viewBox="0 0 24 14.8">
+<path d="M2.8 0L12 9.2 21.2 0 24 2.8l-12 12-12-12L2.8 0z"></path>
+</symbol>
+<symbol id="icon__close" viewBox="0 0 290.1 290">
+<path d="M173.3 145.1L284.2 34.2c7.8-7.8 7.8-20.5 0-28.3s-20.5-7.8-28.3 0L145.1 116.8 34.2 5.9C26.4-2 13.7-2 5.9 5.9s-7.8 20.5 0 28.3l110.9 110.9L6 255.8c-7.8 7.8-7.8 20.5 0 28.3 3.9 3.9 9 5.9 14 5.9 5.1 0 10.2-2 14.1-5.9L145 173.2l110.9 110.9c3.9 3.9 9 5.9 14.1 5.9s10.2-2 14.1-5.9c7.8-7.8 7.8-20.5 0-28.3L173.3 145.1z"></path>
+</symbol>
+<symbol id="icon__arrow_small" viewBox="0 0 893 893">
+<path d="M130.8 130.8c-41 41-73.2 88.7-95.7 141.9C11.8 327.8 0 386.2 0 446.5s11.8 118.7 35.1 173.8c22.5 53.2 54.7 100.9 95.7 141.9s88.7 73.2 141.9 95.7c55.1 23.3 113.5 35.1 173.8 35.1s118.7-11.8 173.8-35.1c53.2-22.5 100.9-54.7 141.9-95.7s73.2-88.7 95.7-141.9c23.3-55.1 35.1-113.5 35.1-173.8s-11.8-118.7-35.1-173.8c-22.5-53.2-54.7-100.9-95.7-141.9s-88.7-73.2-141.9-95.7C565.2 11.8 506.8 0 446.5 0S327.8 11.8 272.7 35.1c-53.2 22.5-100.9 54.7-141.9 95.7zM446.5 818c-99.2 0-192.5-38.6-262.7-108.8S75 545.7 75 446.5 113.6 254 183.8 183.8 347.3 75 446.5 75v743z"></path>
+</symbol>
+<symbol id="icon__document" viewBox="0 0 47 60">
+<path d="M32.4 0H0v60h47V14.6L32.4 0zM11 14h10c.6 0 1 .4 1 1s-.4 1-1 1H11c-.6 0-1-.4-1-1s.4-1 1-1zm25 34H11c-.6 0-1-.4-1-1s.4-1 1-1h25c.6 0 1 .4 1 1s-.4 1-1 1zm0-8H11c-.6 0-1-.4-1-1s.4-1 1-1h25c.6 0 1 .4 1 1s-.4 1-1 1zm0-8H11c-.6 0-1-.4-1-1s.4-1 1-1h25c.6 0 1 .4 1 1s-.4 1-1 1zm0-8H11c-.6 0-1-.4-1-1s.4-1 1-1h25c.6 0 1 .4 1 1s-.4 1-1 1zm-5-8V2l14 14H31z"></path>
+</symbol>
+<symbol id="icon__drop" viewBox="0 0 281.6 436.1">
+<path d="M0 297.8c0 76.4 63.1 138.3 140.8 138.3 77.8 0 140.8-61.9 140.8-138.3 0-97.9-109.3-161.5-118.1-270.6v-4.5c0-12.5-10.2-22.7-22.7-22.7s-22.7 10.2-22.7 22.7v4.5C109 136.3 0 199.9 0 297.8zm160.4 56.5c19.6-4.5 35.2-21.3 39.8-39.5 1.6-8.5 9-15 17.9-15 10 0 18.2 8.2 18.2 18.2 0 13.1-11 33-26 47.9-14.7 14.5-32.3 24.8-46.7 24.8-10 0-18.2-8.4-18.2-18.4 0-9 6.4-16.4 15-18z"></path>
+</symbol>
+<symbol id="icon__email" viewBox="0 0 22 16">
+<path d="M21.3 16H.7L8 8.7l3 2.3 3-2.3 7.3 7.3zm.7-.7V2.5L14.8 8l7.2 7.3zm-22 0V2.5L7.2 8 0 15.3zm22-14V0H0v1.3l11 8.4 11-8.4z"></path>
+</symbol>
+<symbol id="icon__eye" viewBox="0 0 512 277.4">
+<path d="M256 89.1c-26.5 0-48.1 21.6-48.1 48.1s21.6 48.1 48.1 48.1 48.1-21.6 48.1-48.1-21.6-48.1-48.1-48.1M256 0C128.4 0 0 138.7 0 138.7s128.4 138.7 256 138.7 256-138.7 256-138.7S383.6 0 256 0m0 235.4c-54.2 0-98.1-43.9-98.1-98.2 0-54.2 43.9-98.1 98.1-98.1s98.2 43.9 98.2 98.1c0 54.3-44 98.2-98.2 98.2"></path>
+</symbol>
+<symbol id="icon__fb" viewBox="0 0 22.4 48.3">
+<path d="M22.4 15.6h-7.6v-5c0-1.9 1.2-2.3 2.1-2.3h5.4V0h-7.4C6.6 0 4.8 6.2 4.8 10.1v5.5H0v8.5h4.8v24.1h10V24.1h6.8l.8-8.5z"></path>
+</symbol>
+<symbol id="icon__human" viewBox="0 0 20 20">
+<ellipse cx="10" cy="6" rx="5" ry="6"></ellipse>
+<path d="M19.8 17.1c-.9-1.8-2.6-3.3-4.8-4.2-.6-.2-1.3-.2-1.8.1-1 .6-2 .9-3.2.9s-2.2-.3-3.2-.9c-.5-.2-1.2-.3-1.8 0-2.2.9-3.9 2.4-4.8 4.2-.7 1.3.4 2.8 1.9 2.8h15.8c1.5 0 2.6-1.5 1.9-2.9z"></path>
+</symbol>
+<symbol id="icon__logo_trezub" viewBox="0 0 373.7 623">
+<path d="M273.7 186.9C262.5 284.6 257.8 328 257.8 328s2.4-.7 7.5-.7 31.2 6.4 31.2 30.2c0 23.7-21.4 31.9-31.5 31.9-10.2 0-10.9-1.7-10.9-1.7s-48.5-67.5-48.5-168.6c0-64.4 4.4-123.8 4.4-157 0-5.8-.3-37.3-23.1-62.1-22.7 25.1-23.1 56.3-23.1 62.1 0 33.2 4.4 92.2 4.4 157 0 101.1-48.5 168.6-48.5 168.6s-.7 1.7-10.9 1.7-31.5-8.1-31.5-31.9c0-23.7 26.1-30.2 31.2-30.2s7.5.7 7.5.7-5.1-43.4-15.9-141.1C78.7 82.1 0 45.4 0 45.4v452.8h104.8s7.8 63.8 63.4 104.5c0 0 17.6 15.3 18.7 20.3.7-5.1 18.7-20.3 18.7-20.3 56-40.7 63.4-104.5 63.4-104.5h104.8V45.4c.3 0-78.4 36.7-100.1 141.5zM31.9 112.3s28.5 35.6 36.6 77.3c4.4 38.3 13.6 113.3 13.6 113.3s-27.1 11.5-33.6 40h-17V112.3h.4zm69.2 355.4H31.9v-93.6h17c8.8 40.7 52.6 47.1 59 47.1-6.8 20.7-6.8 46.5-6.8 46.5zm69.8 94.6c-28.8-26.8-32.2-64.1-32.2-64.1h32.2v64.1zm-37.3-95c0-19.3 2.4-29.8 5.1-38.3 31.5 5.1 32.9 38.3 32.9 38.3h-38zm53.3-44.7s-27.8-18.7-35.9-24.1c22-33.6 35.9-84.8 35.9-84.8s13.9 51.2 35.9 84.8c-8.1 5.1-35.9 24.1-35.9 24.1zm16.2 139.7v-64.1h32.2c.1 0-3.3 37.3-32.2 64.1zm-.3-95s1.4-33.2 32.9-38.3c2.7 8.8 5.1 19.3 5.1 38.3h-38zm139.4.4H273s0-25.4-6.4-46.8c6.4 0 50.2-6.4 59-47.1h17v93.9h-.4zm0-125.2h-17c-6.1-28.5-33.6-40-33.6-40s9.2-74.6 13.6-113.3c8.1-41.7 36.6-77.3 36.6-77.3v230.6h.4z"></path>
+</symbol>
+<symbol id="icon__menu" viewBox="0 0 459 306">
+<path d="M0 306h459v-51H0v51zm0-127.5h459v-51H0v51zM0 0v51h459V0H0z"></path>
+</symbol>
+<symbol id="icon__ok" viewBox="0 0 24 18">
+<path d="M21.7.2c-.3-.3-.8-.3-1.1 0L9.4 11.4c-.3.3-.8.3-1.1 0l-4.9-5c-.1-.2-.3-.3-.5-.3s-.4.1-.5.2l-2.2 2c-.1.2-.2.3-.2.5s.1.4.2.6l4.9 5.2 1.1 1.1 2.1 2.1c.3.3.8.3 1.1 0L23.8 3.4c.3-.3.3-.8 0-1.1L21.7.2z"></path>
+</symbol>
+<symbol id="icon__photo" viewBox="0 0 24 18.5">
+<path d="M12 8.5c-1.4 0-2.5 1.1-2.5 2.5s1.1 2.5 2.5 2.5 2.5-1.1 2.5-2.5c0-1.3-1.1-2.5-2.5-2.5"></path>
+<path d="M20.9 2.8h-3.1v-.1l-.3-.7c-.5-1.1-1.8-2-3-2h-5C8.3 0 7 .9 6.6 1.9l-.3.8v.1H3.1C1.4 2.8 0 4.2 0 5.9v9.4c0 1.7 1.4 3.1 3.1 3.1h17.7c1.7 0 3.1-1.4 3.1-3.1V5.9c.1-1.7-1.3-3.1-3-3.1zM12 15.9c-2.7 0-4.8-2.2-4.8-4.8S9.3 6.2 12 6.2s4.8 2.2 4.8 4.8-2.1 4.9-4.8 4.9zm9.9-9.1h-3.1V5.2h3.1v1.6z"></path>
+</symbol>
+<symbol id="icon__play_hover" viewBox="0 0 256 320">
+<path d="M16 28.9L225.8 160 16 291.1V28.9M0 0v320l256-160L0 0z"></path>
+<path d="M246.9 163.8L11 298V21l235.9 134.2"></path>
+</symbol>
+<symbol id="icon__play" viewBox="0 0 256 320">
+<path d="M16 28.9L225.8 160 16 291.1V28.9M0 0v320l256-160L0 0z"></path>
+</symbol>
+<symbol id="icon__question" viewBox="0 0 14.2 23.1">
+<path d="M7.4 0c-2 0-3.7.7-5 1.8S.2 3.9 0 6.7h4.1c.1-1.4.4-1.7 1-2.3s1.3-.9 2.2-.9 1.6.2 2.1.8c.5.6.8 1.2.8 2.1S9.9 8 9.4 8.6L6.9 11c-.7.7-.9 1.3-1.1 1.7s0 1.1 0 2v1.7h2.8v-1.2c0-.9.4-1.6.8-2.1.2-.2.5-.4.7-.7.3-.3.6-.6 1-.9.4-.3.7-.6.9-.9.2-.2.6-.6 1-1.2.7-.9 1.1-2 1.1-3.4 0-2-.6-3.5-1.9-4.6C11.1.5 9.4 0 7.4 0zm-.3 18.1c-.7 0-1.3.3-1.8.7-.5.5-.8 1.1-.8 1.8s.3 1.3.8 1.8 1.1.7 1.8.7 1.3-.2 1.8-.7.8-1.1.8-1.8-.3-1.3-.8-1.8c-.4-.4-1-.7-1.8-.7z"></path>
+</symbol>
+<symbol id="icon__quote" viewBox="0 0 16 12.5">
+<path d="M7 5.5v7H0V5.4C0 .6 4.5 0 4.5 0l.6 1.4s-2 .3-2.4 1.9c-.4 1.2.4 2.2.4 2.2H7zm9 0v7H9V5.4C9 .6 13.5 0 13.5 0l.6 1.4s-2 .3-2.4 1.9c-.4 1.2.4 2.2.4 2.2H16z"></path>
+</symbol>
+<symbol id="icon__search" viewBox="0 0 21.4 21.4">
+<path d="M13.4 15.4c-1.4 1-3.1 1.6-4.9 1.6C3.8 17 0 13.2 0 8.5S3.8 0 8.5 0 17 3.8 17 8.5c0 1.8-.6 3.5-1.6 4.9L21 19c.6.6.5 1.4 0 2-.5.5-1.4.5-2 0l-5.6-5.6zM8.5 15c3.6 0 6.5-2.9 6.5-6.5S12.1 2 8.5 2 2 4.9 2 8.5 4.9 15 8.5 15z"></path>
+</symbol>
+<symbol id="icon__text" viewBox="0 0 24 22">
+<path d="M20 0v5h-1c0-2-1.2-3-3-3h-4v18c0 1 2 1 3 1v1H5v-1c1 0 3 0 3-1V2H4C2.2 2 1 3 1 5H0V0h20zm4 11h-3V8h-2v3h-3v2h3v3h2v-3h3v-2z"></path>
+</symbol>
+<symbol id="icon__video" viewBox="0 0 22 14">
+<path d="M0 2v10c0 2 2 2 2 2h11.9s2 0 2-2V2c0-2-2-2-2-2H2S0 0 0 2zm17.1 8.1L22 14V0l-4.9 3.9v6.2z"></path>
+</symbol>
+<symbol id="icon__youtube" viewBox="0 0 18 18">
+<path d="M17.6243 4.87452C17.5219 4.51154 17.321 4.18052 17.0417 3.91459C16.7625 3.64866 16.4147 3.45716 16.0333 3.35924C14.629 3 9 3 9 3C9 3 3.37098 3 1.96674 3.35732C1.58509 3.45493 1.23715 3.64633 0.957869 3.91231C0.67859 4.17828 0.477802 4.50947 0.37567 4.87261C-7.66345e-08 6.21019 0 9 0 9C0 9 -7.66345e-08 11.7898 0.37567 13.1255C0.582589 13.8631 1.1933 14.4439 1.96674 14.6408C3.37098 15 9 15 9 15C9 15 14.629 15 16.0333 14.6408C16.8087 14.4439 17.4174 13.8631 17.6243 13.1255C18 11.7898 18 9 18 9C18 9 18 6.21019 17.6243 4.87452ZM7.21205 11.5605V6.43949L11.8728 8.98089L7.21205 11.5605Z" />
+</symbol>
+<symbol id="icon__youtube_min" viewBox="0 0 49 48">
+<path d="M40.1 22.8H9c-4.9 0-9 4-9 9V39c0 4.9 4 9 9 9h31.1c4.9 0 9-4 9-9v-7.2c-.1-4.9-4.1-9-9-9zm-24.6 5.7h-2.9v14.4H9.8V28.5H6.9V26h8.6v2.5zm8.2 14.3h-2.5v-1.4c-.5.5-.9.9-1.4 1.1-.5.3-1 .4-1.4.4-.6 0-1-.2-1.3-.6-.3-.4-.4-.9-.4-1.7V30.4h2.5v9.5c0 .3.1.5.2.6s.3.2.5.2.4-.1.7-.3c.3-.2.5-.4.8-.7v-9.4h2.5v12.5h-.2zm9-2.5c0 .9-.2 1.6-.6 2-.4.5-1 .7-1.7.7-.5 0-.9-.1-1.3-.3s-.7-.5-1.1-.8v1h-2.5V26H28v5.4c.3-.4.7-.7 1.1-.9.4-.2.8-.3 1.1-.3.8 0 1.4.3 1.8.8.4.5.6 1.3.6 2.3l.1 7zm8.6-3.4h-4.7v2.3c0 .7.1 1.1.2 1.4.2.3.4.4.8.4s.7-.1.9-.3.2-.7.2-1.4v-.6h2.6v.6c0 1.3-.3 2.2-.9 2.9-.6.6-1.5 1-2.8 1-1.1 0-2-.3-2.6-1s-1-1.6-1-2.8v-5.6c0-1.1.4-2 1.1-2.6.7-.7 1.6-1 2.7-1s2 .3 2.6.9.9 1.5.9 2.7v3.1z"></path>
+<path d="M37.6 32.3c-.4 0-.7.1-.8.3-.2.2-.3.6-.3 1.1V35h2.2v-1.3c0-.5-.1-.9-.3-1.1-.1-.2-.4-.3-.8-.3zm-8.5-.1c-.2 0-.4 0-.5.1-.2.1-.3.2-.5.4v7.7c.2.2.4.4.6.4.2.1.4.1.6.1.3 0 .5-.1.7-.3.1-.2.2-.5.2-.9v-6.4c0-.4-.1-.7-.3-1-.2.1-.5-.1-.8-.1zM13 18.5h3.2v-7.7L19.8 0h-3.2l-1.9 7.4h-.2l-2-7.4H9.3L13 11.2m11.1 7.7c1.3 0 2.3-.3 3-1s1.1-1.6 1.1-2.8v-7c0-1-.4-1.9-1.1-2.6s-1.7-1-2.8-1c-1.3 0-2.3.3-3 .9-.8.6-1.1 1.5-1.1 2.5V15c0 1.2.4 2.1 1.1 2.8.6.7 1.6 1.1 2.8 1.1zm-1.2-11c0-.3.1-.5.3-.7.2-.2.5-.3.8-.3.4 0 .7.1.9.3.2.2.3.4.3.7v7.5c0 .4-.1.7-.3.9-.2.2-.5.3-.9.3s-.7-.1-.9-.3c-.2-.2-.3-.5-.3-.9l.1-7.5zm9.5 10.8c.5 0 1.1-.1 1.6-.4.6-.3 1.1-.7 1.6-1.3v1.5h2.8V4.9h-2.8v10.4c-.3.3-.5.5-.9.7-.3.2-.6.3-.8.3-.3 0-.5-.1-.6-.2s-.2-.4-.2-.7V4.9h-2.8v11.4c0 .8.2 1.4.5 1.8.5.4.9.6 1.6.6z"></path>
+</symbol>
+<symbol id="icon__telegram" viewBox="0 0 18 18">
+<path d="M15.8525 2.09205L0.793795 7.79416C-0.233902 8.19948 -0.227956 8.76244 0.605243 9.01347L4.47142 10.1978L13.4166 4.65579C13.8396 4.40309 14.226 4.53903 13.9084 4.81592L6.66101 11.2386H6.65931L6.66101 11.2394L6.39432 15.1526C6.78501 15.1526 6.95743 14.9766 7.17656 14.769L9.05444 12.9758L12.9605 15.809C13.6808 16.1984 14.198 15.9983 14.3772 15.1543L16.9414 3.28802C17.2038 2.25468 16.5396 1.78681 15.8525 2.09205Z" />
+</symbol>
+<symbol id="icon__instagram" viewBox="0 0 18 18">
+<path d="M8.00179 4.8978C5.73162 4.8978 3.9005 6.72933 3.9005 9C3.9005 11.2707 5.73162 13.1022 8.00179 13.1022C10.2719 13.1022 12.1031 11.2707 12.1031 9C12.1031 6.72933 10.2719 4.8978 8.00179 4.8978ZM8.00179 11.667C6.53475 11.667 5.33542 10.4709 5.33542 9C5.33542 7.52906 6.53118 6.33304 8.00179 6.33304C9.47239 6.33304 10.6682 7.52906 10.6682 9C10.6682 10.4709 9.46882 11.667 8.00179 11.667V11.667ZM13.2274 4.73C13.2274 5.26197 12.7991 5.68682 12.2708 5.68682C11.739 5.68682 11.3142 5.2584 11.3142 4.73C11.3142 4.20161 11.7426 3.77318 12.2708 3.77318C12.7991 3.77318 13.2274 4.20161 13.2274 4.73ZM15.9438 5.7011C15.8831 4.41939 15.5904 3.28406 14.6516 2.34866C13.7165 1.41325 12.5814 1.1205 11.2999 1.05623C9.97925 0.981256 6.02075 0.981256 4.70006 1.05623C3.4222 1.11693 2.28712 1.40968 1.34835 2.34509C0.409593 3.28049 0.120468 4.41582 0.0562186 5.69753C-0.0187395 7.01852 -0.0187395 10.9779 0.0562186 12.2989C0.116899 13.5806 0.409593 14.7159 1.34835 15.6513C2.28712 16.5867 3.41863 16.8795 4.70006 16.9438C6.02075 17.0187 9.97925 17.0187 11.2999 16.9438C12.5814 16.8831 13.7165 16.5903 14.6516 15.6513C15.5868 14.7159 15.8795 13.5806 15.9438 12.2989C16.0187 10.9779 16.0187 7.02209 15.9438 5.7011V5.7011ZM14.2376 13.7163C13.9592 14.416 13.4202 14.9551 12.717 15.2372C11.664 15.6549 9.16542 15.5585 8.00179 15.5585C6.83815 15.5585 4.33597 15.6513 3.28656 15.2372C2.58695 14.9587 2.04796 14.4196 1.76598 13.7163C1.34835 12.6631 1.44473 10.1639 1.44473 9C1.44473 7.8361 1.35192 5.33337 1.76598 4.28372C2.0444 3.58396 2.58338 3.04485 3.28656 2.7628C4.33954 2.34509 6.83815 2.44148 8.00179 2.44148C9.16542 2.44148 11.6676 2.34866 12.717 2.7628C13.4166 3.04128 13.9556 3.58039 14.2376 4.28372C14.6552 5.33694 14.5588 7.8361 14.5588 9C14.5588 10.1639 14.6552 12.6666 14.2376 13.7163Z" />
+</symbol>
+<symbol id="icon__phone" viewBox="0 0 16 16">
+<path d="M13.6867 6.71419C13.7059 4.45839 11.7846 2.39041 9.40387 2.10445C9.35652 2.09883 9.30494 2.09029 9.25033 2.08124C9.13247 2.06172 9.01058 2.04164 8.8876 2.04164C8.39965 2.04164 8.26922 2.3844 8.23488 2.58882C8.20149 2.78758 8.23334 2.95449 8.32939 3.08512C8.49098 3.30485 8.7753 3.34385 9.00368 3.37511C9.07061 3.38435 9.13376 3.39295 9.18663 3.40482C11.3257 3.88278 12.0459 4.63424 12.3979 6.75508C12.4065 6.80691 12.4104 6.87076 12.4145 6.93849C12.4299 7.192 12.4619 7.71945 13.0289 7.71945H13.029C13.0762 7.71945 13.1269 7.71538 13.1797 7.70733C13.7078 7.62708 13.6912 7.14495 13.6833 6.91329C13.681 6.84805 13.6789 6.78634 13.6844 6.74529C13.6859 6.73496 13.6867 6.72457 13.6867 6.71419Z" />
+<path d="M8.74919 1.27642C8.81255 1.28099 8.87252 1.28537 8.92246 1.29302C12.435 1.83319 14.0503 3.49739 14.498 7.03737C14.5056 7.09754 14.5068 7.17093 14.508 7.24865C14.5125 7.52522 14.5217 8.10057 15.1396 8.1125L15.1587 8.1127C15.3525 8.1127 15.5067 8.05426 15.6169 7.93888C15.8093 7.73769 15.7958 7.43881 15.785 7.19861C15.7824 7.13968 15.7798 7.08417 15.7805 7.03558C15.8252 3.41511 12.6913 0.132075 9.07401 0.00998758C9.05901 0.00949068 9.0447 0.0102857 9.03024 0.012323C9.02313 0.0133665 9.00996 0.0146584 8.9874 0.0146584C8.95133 0.0146584 8.90696 0.0115279 8.8599 0.00834783C8.80301 0.00447205 8.73851 0 8.67312 0C8.09707 0 7.98755 0.409441 7.97354 0.653516C7.94124 1.21759 8.48693 1.25729 8.74919 1.27642Z" />
+<path d="M14.3285 11.6126C14.2538 11.5555 14.1766 11.4965 14.1043 11.4383C13.7208 11.1296 13.3128 10.8452 12.9182 10.57C12.8363 10.513 12.7544 10.4559 12.6728 10.3987C12.1674 10.0436 11.713 9.8711 11.2836 9.8711C10.7054 9.8711 10.2013 10.1906 9.78516 10.8206C9.60081 11.0999 9.37716 11.2357 9.10154 11.2357C8.93855 11.2357 8.75336 11.1892 8.55118 11.0974C6.91972 10.3576 5.75475 9.2233 5.08857 7.72601C4.76653 7.00233 4.87093 6.52929 5.43769 6.1443C5.75952 5.92586 6.35858 5.5192 6.31615 4.74047C6.2681 3.85615 4.31689 1.19533 3.49478 0.893118C3.14671 0.765118 2.78099 0.763925 2.40584 0.890136C1.46074 1.20785 0.782532 1.76581 0.444346 2.5036C0.117538 3.2165 0.132296 4.05356 0.487029 4.92432C1.51252 7.44189 2.95431 9.63687 4.77249 11.4482C6.55217 13.2213 8.73955 14.6737 11.2738 15.765C11.5022 15.8632 11.7418 15.9169 11.9168 15.956C11.9764 15.9694 12.0279 15.9808 12.0654 15.9911C12.086 15.9967 12.1073 15.9997 12.1286 15.9999L12.1486 16C12.1487 16 12.1486 16 12.1487 16C13.3407 16 14.7719 14.9109 15.2114 13.6691C15.5965 12.5818 14.8934 12.0444 14.3285 11.6126Z" />
+<path d="M9.2764 4.15224C9.07233 4.15741 8.64763 4.16795 8.49862 4.60049C8.4289 4.80263 8.43725 4.97813 8.52346 5.12213C8.64997 5.33341 8.89236 5.39816 9.11283 5.43369C9.91238 5.56198 10.323 6.00412 10.4051 6.82499C10.4433 7.20775 10.7011 7.47503 11.032 7.47503H11.032C11.0565 7.47503 11.0815 7.47359 11.1064 7.47056C11.5044 7.4232 11.6973 7.13078 11.6799 6.60149C11.6862 6.04909 11.3971 5.42196 10.9055 4.92243C10.4121 4.42136 9.81737 4.13918 9.2764 4.15224Z" />
+</symbol>
+<symbol id="icon__telegram_2" viewBox="0 0 16 16">
+<path d="M6.27799 10.1207L6.01333 13.8433C6.39199 13.8433 6.55599 13.6807 6.75266 13.4853L8.52799 11.7887L12.2067 14.4827C12.8813 14.8587 13.3567 14.6607 13.5387 13.862L15.9533 2.54732L15.954 2.54666C16.168 1.54932 15.5933 1.15932 14.936 1.40399L0.742663 6.83799C-0.226003 7.21399 -0.211337 7.75399 0.577996 7.99866L4.20666 9.12732L12.6353 3.85332C13.032 3.59066 13.3927 3.73599 13.096 3.99866L6.27799 10.1207Z" />
+</symbol>
+</defs>
+</svg>
+</div>
+<script>document.createElement('picture');</script>
+<header class="header">
+<div id="search__wrapper">
+<div class="search">
+<div class="container">
+<div class="search__text font_contrast_white-noise-to-black font_upper">Пошук</div>
+<form id="global-search-form" class="search__form" action="/search" method="GET">
+<input type="text" id="searchform-q" class="search__form-input font_gray-to-black regular bg_white-noise-to-dark-blue" name="q" maxLength placeholder="Шукайте, наприклад, новини для студентів" aria-required="true">
+<div class="form-group btn btn__search bg_yellow-to-black bg_contrast_yellow-to-white">
+<input type="submit" class="form-control" value=""> <i class="btn__search-icon fill_white fill_white-to-black">
+<svg class="icon icon__search">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__search"></use>
+</svg>
+</i>
+</div>
+</form> </div>
+</div>
+</div>
+<div class="header__row header__row_top bg_white-to-light-blue">
+<div class="container">
+<div class="header__logo">
+<a class="header__logo-link" href="/">
+<div class="header__logo-svg fill_black">
+<div class="header__logo-svg-big header__logo-svg-eu">
+<svg class="header__logo-svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 370.9 229.8">
+<style type="text/css">
+                                        .header__logo-svg-icon-st0 {
+                                            fill: #2B2B2B;
+                                        }
+
+                                        .header__logo-svg-icon-st1 {
+                                            font-family: 'BebasNeueRegular';
+                                        }
+
+                                        .header__logo-svg-icon-st2 {
+                                            font-size: 62.6044px;
+                                        }
+
+                                        .header__logo-svg-icon-st3 {
+                                            fill: #FFCB04;
+                                        }
+
+                                        .header__logo-svg-icon-st4 {
+                                            fill: #2E368E;
+                                        }
+                                    </style>
+<g>
+<text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 43.8436)">
+МIнIстерство
+</text>
+<text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 105.8436)">
+охорони
+</text>
+<text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 167.8436)">
+здоров’я
+</text>
+<text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 229.8436)">
+УкраIни
+</text>
+</g>
+<g>
+<path class="header__logo-svg-icon-st0" d="M37.6,25.4c-1.5,13.4-2.2,19.4-2.2,19.4s0.3-0.1,1-0.1s4.3,0.9,4.3,4.2s-2.9,4.4-4.3,4.4s-1.5-0.2-1.5-0.2                                s-6.7-9.2-6.7-23.1c0-8.9,0.6-17,0.6-21.5c0-0.8,0-5.1-3.1-8.5c-3.1,3.4-3.1,7.7-3.1,8.5c0,4.6,0.6,12.7,0.6,21.5                                c0,13.9-6.7,23.1-6.7,23.1s-0.1,0.2-1.5,0.2s-4.3-1.1-4.3-4.4c0-3.3,3.6-4.2,4.3-4.2s1,0.1,1,0.1s-0.7-5.9-2.2-19.4                                C10.8,11,0,6,0,6v62.1h14.4c0,0,1,8.7,8.7,14.3c0,0,2.4,2.1,2.5,2.8c0.1-0.7,2.5-2.8,2.5-2.8c7.7-5.6,8.7-14.3,8.7-14.3h14.4V6                                C51.3,6,40.5,11,37.6,25.4z M4.4,15.2c0,0,3.9,4.9,5,10.6c0.6,5.3,1.9,15.5,1.9,15.5s-3.7,1.6-4.6,5.5c-0.7,0-2.3,0-2.3,0L4.4,15.2                                L4.4,15.2z M13.9,63.9H4.4V51h2.3c1.2,5.6,7.2,6.5,8.1,6.5C13.9,60.4,13.9,63.9,13.9,63.9z M23.5,76.9c-3.9-3.7-4.4-8.8-4.4-8.8                                h4.4C23.5,68.1,23.5,74.6,23.5,76.9z M18.3,63.9c0-2.6,0.3-4.1,0.7-5.3c4.3,0.7,4.5,5.3,4.5,5.3H18.3z M25.7,57.7                                c0,0-3.8-2.6-4.9-3.3c3-4.6,4.9-11.6,4.9-11.6s1.9,7,4.9,11.6C29.5,55.1,25.7,57.7,25.7,57.7z M27.9,76.9c0-2.3,0-8.8,0-8.8h4.4                                C32.3,68.1,31.8,73.2,27.9,76.9z M27.8,63.9c0,0,0.2-4.6,4.5-5.3c0.4,1.2,0.7,2.6,0.7,5.3H27.8z M47,63.9h-9.5c0,0,0-3.5-0.9-6.4                                c0.9,0,6.9-0.9,8.1-6.5H47V63.9z M47,46.8c0,0-1.6,0-2.3,0c-0.8-3.9-4.6-5.5-4.6-5.5s1.2-10.2,1.9-15.5c1.1-5.7,5-10.6,5-10.6V46.8                                z"></path>
+</g>
+<g>
+<path class="header__logo-svg-icon-st0" d="M216.1,179.8v3.3h-3.2v-3.3H216.1z"></path>
+</g>
+<g>
+<path class="header__logo-svg-icon-st0" d="M210,179.8v3.3h-3.4v-3.3H210z"></path>
+</g>
+<rect class="header__logo-svg-icon-st3" x="76.6" y="114.7" width="5.1" height="115.2"></rect>
+<rect class="header__logo-svg-icon-st4" x="76.6" y="0.3" width="5.1" height="114.6"></rect>
+</svg>
+</div>
+<div class="header__logo-small"></div>
+<i class="header__logo-svg-small fill_black">
+<svg class="icon icon__logo_trezub">
+ <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__logo_trezub"></use>
+</svg>
+</i>
+<div class="header__logo-stripe-wrap">
+<div class="header__logo-stripe bg_blue-to-black"></div>
+<div class="header__logo-stripe bg_yellow-to-gray bg_contrast_yellow-to-white"></div>
+</div>
+</div>
+</a>
+</div>
+<div class="covid-info_block">
+<div class="covid_info">
+<span class="top">Інформація про</span>
+<span class="bottom">COVID-19</span>
+</div>
+<div class="covid-phone_block">
+<a href="https://vb.me/covid19_ua" class="icon-phone" target="_blank">
+<svg class="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__phone"></use>
+</svg>
+</a>
+<a href="https://t.me/COVID19_Ukraine" class="icon-tel" target="_blank">
+<svg class="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__telegram_2"></use>
+</svg>
+</a>
+</div>
+</div>
+<div class="header__tel">
+<span class="regular font_gray-to-black">Контакт-центр МОЗ з питань COVID-19</span>
+<div class="head_tel_block">
+<a class="h3 font_black header__phone" href="tel:"></a>
+<a class="h3 font_black header__phone" href="tel:0 800 60 20 19">0 800 60 20 19</a>
+</div>
+</div>
+<a class="btn btn__switch bg_white disability-switch" href="#" data-type="lf" data-href="/page/change-disability">
+<div class="h5 font_upper font_black">для людей з порушенням зору</div>
+<i class="btn__switch-icon fill_black">
+<svg class="icon icon__eye">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__eye"></use>
+</svg>
+</i>
+</a>
+<div class="header__social">
+<a class="header__social-logo" href="https://www.facebook.com/moz.ukr" target="_blank">
+<i class="header__social-logo-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__fb">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-logo" href="https://www.youtube.com/channel/UC-kYPlo9h8F2--Xyesbh-8w" target="_blank">
+<i class="header__social-logo-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__youtube">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__youtube"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-logo" href="https://twitter.com/MoH_Ukraine" target="_blank">
+<i class="header__social-logo-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__twitter">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__twitter"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-logo" href="https://t.me/mozofficial" target="_blank">
+<i class="header__social-logo-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__telegram">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__telegram"></use>
+</svg>
+</i>
+</a>
+</div>
+<div class="header__search-wrapper">
+<a class="btn btn__search bg_white-noise-to-white" href="#">
+<i class="btn__search-icon fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__search">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__search"></use>
+</svg>
+</i>
+</a>
+<a class="header__search-close bg_white" href="#">
+<i class="header__search-close-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__close">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__close"></use>
+</svg>
+</i>
+</a>
+</div>
+</div>
+</div>
+<div class="header__row header__row_bottom bg_white-noise-to-dark-blue">
+<div class="container">
+<a class="header__hamburger bg_yellow-to-black bg_contrast_yellow-to-white" href="#">
+<i class="header__hamburger-svg fill_white-to-black">
+<svg class="icon icon__menu">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__menu"></use>
+</svg>
+</i>
+</a>
+<div class="covid-info_block_mobile">
+<div class="covid_info">
+<span class="top">Інформація про</span>
+<span class="bottom">COVID-19</span>
+</div>
+<div class="covid-phone_block">
+<a href="https://vb.me/covid19_ua" class="icon-phone" target="_blank">
+<svg class="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__phone"></use>
+</svg>
+</a>
+<a href="https://t.me/COVID19_Ukraine" class="icon-tel" target="_blank">
+<svg class="icon">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__telegram_2"></use>
+</svg>
+</a>
+</div>
+</div>
+<div class="header__overlay bg_white-noise-to-dark-blue">
+<div class="header__overlay-flex">
+<a class="header__overlay-close bg_white" href="#">
+<i class="header__overlay-close-svg fill_black">
+<svg class="icon icon__close">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__close"></use>
+</svg>
+</i>
+</a>
+<nav class="nav bg_white-noise-to-dark-blue"><a href="/" class="nav__item regular font_upper font_gray-dark-to-black mobile-main-page-link">Головна</a>
+<a href="/pro-ministerstvo" class="nav__item regular font_upper font_gray-dark-to-black ">Про міністерство</a>
+<a href="/plan-reform" class="nav__item regular font_upper font_gray-dark-to-black ">Трансформація системи</a>
+<a href="/gromadjanam" class="nav__item regular font_upper font_gray-dark-to-black ">Громадянам</a>
+<a href="/medichnim-pracivnikam" class="nav__item regular font_upper font_gray-dark-to-black ">Медичним працівникам</a>
+<a href="/pres-centr" class="nav__item regular font_upper font_gray-dark-to-black nav__item-active ">Пресцентр</a>
+<a href="/dokumenti" class="nav__item regular font_upper font_gray-dark-to-black ">Документи</a>
+<a href="/kontakti" class="nav__item regular font_upper font_gray-dark-to-black ">Контакти</a></nav> <div class="header__social-mobile">
+<a class="header__social-mobile-logo" href="https://www.facebook.com/moz.ukr">
+<i class="header__social-mobile-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__fb">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-mobile-logo" href="https://www.youtube.com/channel/UC-kYPlo9h8F2--Xyesbh-8w">
+<i class="header__social-mobile-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__youtube">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__youtube"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-mobile-logo" href="https://twitter.com/MoH_Ukraine">
+<i class="header__social-mobile-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__twitter">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__twitter"></use>
+</svg>
+</i>
+</a>
+<a class="header__social-mobile-logo" href="https://t.me/mozofficial">
+<i class="header__social-mobile-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__telegram">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__telegram"></use>
+</svg>
+</i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<main class="main bg_white-to-light-blue" data-page="medical-staff">
+<div class="disabilities__wrapper">
+<div class="disabilities">
+<div class="disabilities__item-wrapper">
+<a class="disabilities__item disabilities__item-text bg_white-noise-to-black bg_white-noise-to-dark-blue disability-switch " data-type="lf" data-href="/page/change-disability" href="#">
+<i class="disabilities__item-icon fill_black-to-white fill_contrast_black-to-white">
+<svg class="icon icon__text">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__text"></use>
+</svg>
+</i>
+</a>
+<span class="disabilities__desc disabilities__desc-disabled disabilities__desc-text font_upper h5 font_black bg_white-noise">
+Збільшити шрифт </span>
+</div>
+<div class="disabilities__item-wrapper">
+<a class="disabilities__item disabilities__item-contrast bg_white-noise-to-black bg_white-noise-to-dark-blue disability-switch " data-type="b" data-href="/page/change-disability" href="#">
+<i class="disabilities__item-icon fill_black-to-white fill_contrast_black-to-white">
+<svg class="icon icon__drop">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__drop"></use>
+</svg>
+</i>
+</a>
+<span class="disabilities__desc disabilities__desc-disabled disabilities__desc-contrast font_upper h5 font_black bg_white-noise">
+Змінити на синій </span>
+</div>
+<div class="disabilities__item-wrapper">
+<a class="disabilities__item disabilities__item-black bg_white-noise-to-black bg_white-noise-to-dark-blue disability-switch " data-type="bw" data-href="/page/change-disability" href="#">
+<i class="disabilities__item-icon fill_black-to-white fill_contrast_black-to-white">
+<svg class="icon icon__contrast">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__contrast"></use>
+</svg>
+</i>
+</a>
+<span class="disabilities__desc disabilities__desc-disabled disabilities__desc-black font_upper h5 font_black bg_white-noise">
+Змінити на чорно-білий </span>
+</div>
+</div>
+</div>
+<div class="container"><ul class="breadcrumbs"><li class='regular-small'><a class="font_yellow-to-black font_contrast_yellow-to-black" href="/">Головна</a></li>
+<li class='regular-small'><a class="font_yellow-to-black font_contrast_yellow-to-black" href="/pres-centr">Пресцентр</a></li>
+<li class='regular-small'><a class="font_yellow-to-black font_contrast_yellow-to-black" href="/novini">Новини</a></li>
+<li class='regular-small font_grey active'>Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV</li>
+</ul><h1 class="about__title h2 font_upper font_black">Новини</h1></div> <div class="container">
+<div class="medical__row">
+<div class="accordion__wrapper"><a class="accordion__show-mobile bg_white-noise" href="#!">
+<h5 class="h5 block__title font_upper font_black">
+Категорії <span class="block__title-stripe bg_yellow-to-black bg_contrast_yellow-to-white"></span>
+</h5>
+<i class="accordion__show-mobile-arrow">
+<svg class="icon icon__arrow_small">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__arrow_small"></use>
+</svg>
+</i>
+</a>
+<ul class="accordion"><li class="accordion__title h5 bg_white-noise-to-white accordion__title-active"><a class="accordion__title-link font_gray-dark-to-black" href="/novini">Новини</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/anonsi">Оголошення та анонси</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/interv%E2%80%99ju">Інтерв’ю</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/informacijni-bjuletni">Інформаційні Бюлетні</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/fotogalereja">Фотогалерея</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/videogalereja">Відеогалерея</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/prezentacii">Презентації</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/statistika">Статистика</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/press-sluzhba">Контакти прес-служби</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/kontakti-pres-sluzhbi">Прес-центр КМУ</a></li>
+<li class="accordion__title h5 bg_white-noise-to-white"><a class="accordion__title-link font_gray-dark-to-black" href="/sanepidsituacija">Санепідситуація</a></li></ul></div> <div class="medical">
+<div class="medical__wrapper">
+<div class="article__views">
+<h4 class="article__views-heading h4 font_black">Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV</h4>
+<div class="article__views-cnt font_gray-to-black regular">
+<div class="article__views-cnt-date">
+10 квітня 2021 </div>
+<div class="article__views-cnt-amount">
+<div class="article__views-cnt-amount-icon">
+<i class="article__views-cnt-amount-svg fill_gray-to-black">
+<svg class="icon icon__eye">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__eye"></use>
+</svg>
+</i>
+</div>
+<div class="article__views-cnt-amount-number">883350</div>
+</div>
+<div class="article__views-cnt-icons">
+</div>
+</div>
+</div>
+<div class="medical__vacancy-desc">
+<div class="editor">
+<p>За даними Центру громадського здоров&rsquo;я, станом на 10&nbsp;квітня&nbsp;в&nbsp;Україні&nbsp;зафіксовано 17 463 нових підтверджених випадків коронавірусної хвороби COVID-19 (з них дітей &ndash; 684, медпрацівників &ndash; 394). Кількіть активних хворих -&nbsp;398 532 особи.</p>
+<p>Від початку кампанії проведено 373 005 щеплень, із них отримали 1 дозу &ndash; 372 997 осіб, завершили вакцинацію (отримали 2 дози) &ndash; 5 осіб (із них 2 осіб отримали 1 дозу закордоном).</p>
+<p>За 09 квітня 2021 року щеплено 19 858 осіб, із них вакциновано першою дозою&nbsp;&nbsp;вакцини &ndash; 19 858 осіб, вакциновано другою дозою &ndash; 0 осіб.</p>
+<table align="left" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td colspan="2" style="height:32px; width:398px">
+<p><strong>Також за останню добу: </strong></p>
+</td>
+</tr>
+<tr>
+<td style="width:294px">
+<div style="margin-left:18.0pt">
+<ul>
+<li>госпіталізовано (особи) &ndash;</li>
+</ul>
+</div>
+</td>
+<td style="width:104px">
+<p>4709</p>
+</td>
+</tr>
+<tr>
+<td style="width:294px">
+<div style="margin-left:18.0pt">
+<ul>
+<li>летальних випадків &ndash;</li>
+</ul>
+</div>
+</td>
+<td style="width:104px">
+<p>398</p>
+</td>
+</tr>
+<tr>
+<td style="width:294px">
+<div style="margin-left:18.0pt">
+<ul>
+<li>одужало (особи) &ndash;</li>
+</ul>
+</div>
+</td>
+<td style="width:104px">
+<p>10722</p>
+</td>
+</tr>
+<tr>
+<td style="width:294px">
+<p><strong>Здійснено тестувань за добу &ndash; </strong></p>
+<p>&nbsp;&nbsp; в т. ч.:</p>
+</td>
+<td style="width:104px">
+<p>122&nbsp;181</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div>
+<div>
+<p><strong>Розподіл випадків COVID-19 по регіонах України</strong></p>
+</div>
+<table align="center" border="1" cellpadding="0" cellspacing="0" style="width:81.78%">
+<tbody>
+<tr>
+<td rowspan="2" style="height:2px; width:26.28%">
+<p>Регіон</p>
+</td>
+<td colspan="2" style="height:2px; width:25.1%">
+<p>Підтверджені</p>
+</td>
+<td colspan="2" style="height:2px; width:23.52%">
+<p>Зареєстровано померлих</p>
+</td>
+<td colspan="2" style="height:2px; width:25.1%">
+<p>Одужали</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:13.06%">
+<p><strong>всього</strong></p>
+</td>
+<td style="height:2px; width:12.04%">
+<p><strong>за добу</strong></p>
+</td>
+<td style="height:2px; width:11.48%">
+<p><strong>всього</strong></p>
+ </td>
+<td style="height:2px; width:12.04%">
+<p><strong>за добу</strong></p>
+</td>
+<td style="height:2px; width:13.06%">
+<p><strong>всього</strong></p>
+</td>
+<td style="height:2px; width:12.04%">
+<p><strong>за добу</strong></p>
+</td>
+</tr>
+<tr>
+<td style="height:11px; width:26.28%">
+<p><strong>Україна</strong></p>
+</td>
+<td style="height:11px; width:13.06%">
+<p>1841137</p>
+</td>
+<td style="height:11px; width:12.04%">
+<p>17463</p>
+</td>
+<td style="height:11px; width:11.48%">
+<p>36779</p>
+</td>
+<td style="height:11px; width:12.04%">
+<p>398</p>
+</td>
+<td style="height:11px; width:13.06%">
+<p>1405826</p>
+</td>
+<td style="height:11px; width:12.04%">
+<p>10722</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>м. Київ</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>175872</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1605</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>3848</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>51</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>110832</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>695</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Вінницька</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>62697</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>438</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1274</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>20</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>40410</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>657</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Волинська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>50776</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>512</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>835</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>4</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>42776</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>311</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Дніпропетровська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>102421</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1383</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>2630</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>39</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>79715</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>575</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Донецька</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>66456</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>908</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1419</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>51946</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>600</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Житомирська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>77493</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>560</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1354</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>18</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>56188</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>341</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Закарпатська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>57436</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>225</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1429</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>16</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>45371</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>569</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Запорізька</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>84947</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>741</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1563</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>14</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>70482</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>136</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Івано-Франківська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>81674</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>134</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1829</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>5</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>68819</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>551</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Київська</p>
+</td> 
+<td style="height:2px; width:13.06%">
+<p>105585</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1133</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1876</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>29</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>83025</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>586</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Кіровоградська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>14759</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>177</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>508</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>4</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>9604</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>68</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Луганська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>19425</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>263</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>579</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>2</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>15856</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>112</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Львівська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>116429</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1342</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>2832</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>35</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>85191</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>954</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Миколаївська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>55732</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>375</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1269</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>21</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>43900</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>355</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Одеська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>119801</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1058</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>2087</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>31</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>86404</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>439</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Полтавська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>61285</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>764</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1283</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>7</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>50352</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>416</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Рівненська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>63290</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>535</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>835</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>7</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>53982</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>375</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Сумська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>64615</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>677</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>909</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>9</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>52863</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>194</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Тернопільська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>59932</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>533</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>909</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>12</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>48578</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>455</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Харківська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>115790</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>1343</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>2179</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>28</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>90737</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>704</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Херсонська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>26901</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>321</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>737</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>0</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>21984</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>89</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Хмельницька</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>73196</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>764</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1329</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>17</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>56069</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>552</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Черкаська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>64280</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>764</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>831</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>9</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>52264</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>353</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Чернівецька</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>73503</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>331</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>1484</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>8</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>52727</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>424</p>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Чернігівська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>46842</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>577</p>
+</td>
+<td style="height:2px; width:11.48%">
+<p>951</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>11</p>
+</td>
+<td style="height:2px; width:13.06%">
+<p>35751</p>
+</td>
+<td style="height:2px; width:12.04%">
+<p>211</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div>&nbsp;</div>
+<p>Дані з тимчасово окупованих територій АР Крим, Донецької, Луганської областей та міста Севастополя відсутні.</p>
+</div>
+<p>МОЗ нагадує: дотримання трьох простих правил протиепідемічної безпеки &mdash; дотримання дистанції, носіння маски та користування санітайзерами &mdash; рятує життя. Бережіть себе та рідних.&nbsp;<strong>При перших симптомах респіраторних захворювань обов&rsquo;язково зателефонуйте своєму сімейному лікарю&nbsp;або до контакт-центру МОЗ&nbsp; за номером&nbsp;</strong><a href="tel:0%20800%2060%2020%2019">0 800 60 20 19</a>.</p>
+<p><a name="n6"></a>Постановою Кабінету Міністрів від 17 лютого 2021 р. № 104 &laquo;Про внесення змін до деяких актів Кабінету Міністрів України&raquo; внесено зміни до постанови Кабінету Міністрів України&nbsp; від&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/1236-2020-%D0%BF#Text">9 грудня 2020 року №&nbsp;1236 &laquo;Про встановлення карантину та запровадження обмежувальних протиепідемічних заходів з метою запобігання поширенню на території України гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2&raquo;</a>&nbsp;(далі &ndash; постанова №&nbsp;1236) продовживши дію карантину до 30 квітня 2021 року.</p>
+<p>Крім того, з 24 лютого 2021 року діятимуть чотири рівні епідемічної небезпеки, за якими і встановлюватимуться ті чи інші обмежувальні заходи.</p>
+<p><strong>Зелений рівень</strong>&nbsp;&ndash; той показник, якого слід досягнути для послаблення або скасування протиепідемічних заходів. Він може бути встановлений за умови, що рівень &nbsp;захворюваності на грип та ГРВІ на території не менш як 13 регіонів України не перевищуватиме 50 відсотків епідемічного порогу, встановленого для відповідного регіону. Другий критерій &ndash; виявлення випадків інфікування COVID-19 (методом ПЛР та з визначення антигену) &ndash; менше 5 відсотків.</p>
+<p><strong>Жовтий рівень</strong>&nbsp;є базовим для всієї країни і передбачає відповідні обмеження та протиепідемічні заходи. Зокрема, забороняється:</p>
+<p>1) перебування в громадських будинках і спорудах, громадському транспорті без вдягнутих засобів індивідуального захисту, зокрема респіраторів або захисних масок, що закривають ніс та рот, у тому числі виготовлених самостійно;</p>
+<p>2) перебування на вулицях без документів, що посвідчують особу, підтверджують громадянство чи її спеціальний статус, без посвідчення про взяття на облік бездомної особи, довідки про звернення за захистом в Україні;</p>
+<p>3) самовільно залишати місця самоізоляції, обсервації;</p>
+<p>4) перетин державного кордону іноземцями та особами без громадянства (крім іноземців, осіб без громадянства, які постійно проживають на території України, та осіб, яких визнано біженцями, або осіб, які потребують додаткового захисту, працівників дипломатичних представництв та консульських установ іноземних держав, представництв офіційних міжнародних місій, організацій, акредитованих в Україні, та членів їх сімей, водіїв та членів екіпажу вантажних транспортних засобів, автобусів, що здійснюють регулярні, нерегулярні та маятникові перевезення, членів екіпажів повітряних і морських, річкових суден, членів поїзних і локомотивних бригад, військовослужбовців (підрозділів) збройних сил держав &mdash; членів НАТО та держав &mdash; учасниць програми НАТО &ldquo;Партнерство заради миру&rdquo;, які беруть участь у заходах з підготовки підрозділів Збройних Сил) без наявного поліса (свідоцтва, сертифіката) страхування, що виданий страховою компанією, яка зареєстрована в Україні, або іноземною страховою компанією, яка має представництво на території України чи договірні відносини із страховою компанією &mdash; партнером на території України (асистанс), покриває витрати, пов&rsquo;язані з лікуванням COVID-19, обсервацією, та діє на строк перебування в Україні.</p>
+<p>У разі відсутності зазначеного поліса (свідоцтва, сертифіката) страхування уповноважена службова особа підрозділу охорони державного кордону відмовляє іноземцям та особам без громадянства у перетині державного кордону в порядку, визначеному&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/1710-17#n169" target="_blank">статтею 14</a>&nbsp;Закону України &ldquo;Про прикордонний контроль&rdquo;;</p>
+<p>5) перетин контрольних пунктів в&rsquo;їзду на тимчасово окуповані території в Донецькій та Луганській областях, Автономної Республіки Крим та м. Севастополя та виїзду з них іноземцями та особами без громадянства без наявного поліса (свідоцтва, сертифіката) страхування, що виданий страховою компанією, яка зареєстрована в Україні, або іноземною страховою компанією, яка має представництво на території України чи договірні відносини із страховою компанією &mdash; партнером на території&nbsp;України (асистанс), покриває витрати, пов&rsquo;язані з лікуванням COVID-19, і діє на строк перебування в Україні.</p>
+<p>У разі відсутності зазначеного поліса (свідоцтва, сертифіката) страхування уповноважена службова особа підрозділу охорони державного кордону відмовляє іноземцям та особам без громадянства у в&rsquo;їзді на тимчасово окуповані території в Донецькій та Луганській областях, Автономної Республіки Крим та м.&nbsp;Севастополя та виїзді з них згідно з&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/367-2015-%D0%BF#n8" target="_blank">Порядком в&rsquo;їзду на тимчасово окуповану територію України та виїзду з неї</a>, затвердженим постановою Кабінету Міністрів України від 4 червня 2015 р. № 367 (Офіційний вісник України, 2015 р., № 46, ст. 1485), та&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/815-2019-%D0%BF#n10" target="_blank">Порядком в&rsquo;їзду осіб, переміщення товарів на тимчасово окуповані території у Донецькій та Луганській областях і виїзду осіб, переміщення товарів з таких територій</a>, затвердженим постановою Кабінету Міністрів України від 17 липня 2019 р. № 815 (Офіційний вісник України, 2019 р., № 70, ст. 2446);</p>
+<p>6) проведення масових (культурних, спортивних, розважальних, соціальних, релігійних, рекламних, наукових, освітніх, професійних тематичних та інших) заходів за участю більше однієї особи на 4 кв. метри площі будівлі або території (якщо захід проводиться на відкритому повітрі) або наповненістю залів понад 50 відсотків місць у кожному окремому залі, крім заходів, необхідних для забезпечення роботи органів державної влади та органів місцевого самоврядування, проведення кваліфікаційного іспиту на право на зайняття нотаріальною діяльністю, тестування на знання законодавства у сфері державної реєстрації осіб, які мають намір виконувати функції державного реєстратора, проведення офіційних спортивних заходів, включених до Єдиного календарного плану фізкультурно-оздоровчих та спортивних заходів України, та матчів командних ігрових видів спорту професійних спортивних клубів із глядачами з наповненістю споруд, приміщень не більш як 50 відсотків місць та за умови дотримання учасниками таких заходів відповідних санітарних і протиепідемічних заходів та здійснення обов&rsquo;язкового щоденного контролю за станом здоров&rsquo;я учасників. Організатор заходу є відповідальним за нанесення горизонтальної розмітки або інших засобів дистанціонування для дотримання між особами фізичної дистанції не менше ніж 1,5 метра у разі проведення заходу із розміщенням осіб стоячи;</p>
+<p>7) приймання відвідувачів у кінотеатрах, інших закладах культури та приймання відвідувачів іншими суб&rsquo;єктами діяльності у сфері культури з наповненістю кінозалів або залів понад 50 відсотків місць (розміщення здійснюється з дотриманням шахового порядку розміщення, зокрема для груп із двох осіб) у кожному окремому кінозалі або залі;</p>
+<p>8) здійснення регулярних та нерегулярних перевезень пасажирів автомобільним транспортом, зокрема перевезень пасажирів на міських автобусних маршрутах у режимі маршрутного таксі, в електричному (трамвай, тролейбус), залізничному транспорті, у міському, приміському, міжміському, внутрішньообласному та міжобласному сполученні, в кількості більшій, ніж кількість місць для сидіння, що передбачена технічною характеристикою транспортного засобу, визначена в реєстраційних документах на такий транспортний засіб.</p>
+<p>Перевізник несе відповідальність за забезпечення водіїв засобами індивідуального захисту, зокрема респіраторами або захисними масками, та здійснює контроль за використанням пасажирами під час перевезення засобів індивідуального захисту, зокрема респіраторів або захисних масок, що закривають ніс та рот, у тому числі виготовлених самостійно;</p>
+<p>9) проведення дискотек, робота розважальних закладів (нічних клубів), діяльність закладів громадського харчування (ресторанів, кафе, барів, закусочних, їдалень, кафетеріїв, буфетів тощо) з організацією дозвілля, у тому числі проведення святкових заходів, банкетів, майстер-класів, публічних подій тощо;</p>
+<p>10) робота після 24-ї та до 7-ї години суб&rsquo;єктів господарювання з надання послуг громадського харчування (ресторанів, кафе, барів, закусочних, їдалень, кафетеріїв, буфетів тощо), крім діяльності з надання послуг громадського харчування із здійсненням адресної доставки замовлень та замовлень на винос;</p>
+<p>11) розміщення відвідувачів у закладах громадського харчування на відстані меншій, ніж 2 метри за сусідніми столиками та більш як чотири особи за одним столом (без урахування дітей віком до 18 років), за умови, що відвідувачі заходять до закладу і пересуваються по ньому з вдягненими засобами індивідуального захисту, зокрема респіраторами або захисними масками, що закривають ніс та рот, у тому числі виготовленими самостійно (крім часу сидіння за столом для приймання їжі та/або напоїв);</p>
+<p>12) діяльність суб&rsquo;єктів господарювання, які обслуговують відвідувачів, у яких:</p>
+<p>не нанесено маркування для перебування в черзі з дотриманням дистанції між клієнтами не менш як 1,5 метра;</p>
+<p>не забезпечено працівників засобами індивідуального захисту, зокрема захисними масками або респіраторами, та не здійснюється належний контроль за їх використанням;</p>
+<p>обслуговуються покупці без одягнутих засобів індивідуального захисту, зокрема захисних масок або респіраторів, які закривають ніс та рот, у тому числі виготовлених самостійно, за винятком обслуговування за межами будівлі суб&rsquo;єкта господарювання (через вікна видачі, тераси тощо);</p>
+<p>не забезпечується централізований збір використаних засобів індивідуального захисту в окремі контейнери (урни);</p>
+<p>13) діяльність закладів, що надають послуги з розміщення (крім готелів, санаторно-курортних закладів, установ і закладів, які надають соціальні послуги, реабілітаційних установ для осіб з інвалідністю та дітей з інвалідністю, а також стаціонарних відділень первинного та складного протезування протезно-ортопедичних підприємств, що належать до сфери управління Міністерства соціальної політики);<a name="n29"></a></p>
+<p>14) відвідування закладів освіти здобувачами освіти у разі, коли на&nbsp;самоізоляції через контакт з пацієнтом з підтвердженим випадком COVID-19 перебуває більш як 50 відсотків здобувачів освіти та персоналу закладу освіти;</p>
+<p>15) проведення в закладах освіти масових заходів (вистав, свят, концертів) за участю здобувачів освіти з більше ніж однієї групи (класу) та за присутності глядачів (відвідувачів);</p>
+<p>16) проведення державними та комунальними закладами охорони здоров&rsquo;я планових заходів з госпіталізації, крім:</p>
+<p><a name="n33"></a>надання медичної допомоги внаслідок ускладненого перебігу вагітності та пологів;</p>
+<p><a name="n34"></a>надання медичної допомоги вагітним, роділлям, породіллям, новонародженим;</p>
+<p><a name="n35"></a>надання медичної допомоги у спеціалізованих відділеннях закладів охорони здоров&rsquo;я пацієнтам з онкологічними та пульмонологічними захворюваннями;</p>
+
+<p><a name="n36"></a>надання паліативної медичної допомоги у стаціонарних умовах;</p>
+<p><a name="n37"></a>надання планової медичної допомоги закладами охорони здоров&rsquo;я національного рівня, що надають третинну (високоспеціалізовану) медичну допомогу, за умови дотримання відповідних санітарних та протиепідемічних заходів;</p>
+<p><a name="n38"></a>проведення інших невідкладних і термінових заходів з госпіталізації, якщо внаслідок їх перенесення (відтермінування) існує значний ризик для життя або здоров&rsquo;я людей;</p>
+<p>17) діяльність спортивних залів, фітнес-центрів, які не забезпечують можливість обмежити кількість відвідувачів у залі з розрахунку одна особа на 10 кв. метрів загальної площі приміщення, басейнів ― більше ніж чотири особи на одній доріжці для індивідуальних занять або шість осіб для спортивно-тренувальних груп;</p>
+<p>18) відвідування пунктів (місць) тимчасового тримання осіб, пунктів тимчасового перебування іноземців та осіб без громадянства, які незаконно перебувають в Україні, та пунктів тимчасового розміщення біженців, крім осіб, які надають правову допомогу особам, які перебувають в таких пунктах;</p>
+<p>19) відвідування сторонніми особами (крім законних представників, членів сім&rsquo;ї, родичів за умови дотримання всіх протиепідемічних заходів, не частіше ніж один раз на тиждень) установ і закладів соціального захисту, в яких тимчасово або постійно проживають (перебувають) громадяни похилого віку, ветерани війни і праці, особи з інвалідністю, особи із стійкими інтелектуальними або психічними порушеннями, установ і закладів, що надають соціальні послуги сім&rsquo;ям (особам), які перебувають у складних життєвих обставинах, крім установ і закладів, які надають соціальні послуги екстрено (кризово);</p>
+<p>20) надання засудженим дозволів на короткочасні виїзди за межі установ виконання покарань, передбачених частиною третьою статті 59, частиною першою статті 67, статтею 111 та частиною першою статті 130 Кримінально-виконавчого кодексу України, відвідування установ виконання покарань та слідчих ізоляторів Державної кримінально-виконавчої служби об&rsquo;єднаннями громадян, представниками благодійних організацій, надання побачень засудженим та особам, узятим під варту, які тримаються в таких установах, крім: відвідування зазначених установ працівниками правоохоронних органів, судів, представниками посольств і консульств відповідних держав, співробітниками Управління Верховного Комісара Організації Об&rsquo;єднаних Націй у справах біженців, а також особами, зазначеними у частині першій статті 24 Кримінально-виконавчого кодексу України та частині п&rsquo;ятій статті 12 Закону України &ldquo;Про попереднє ув&rsquo;язнення&rdquo;; побачень із захисниками та адвокатами або іншими фахівцями у галузі права, які за законом мають право на надання правової допомоги особисто чи за дорученням юридичної особи; проведення заходів душпастирської опіки у зазначених установах за умови їх проведення не більше двох разів на тиждень із загальною чисельністю учасників одного заходу не більше 10 осіб, з яких одна особа &ndash; священнослужитель (капелан), уповноважений релігійними організаціями; короткострокових побачень з родичами або іншими особами, які відбуваються виключно в закритих умовах (через суцільне розмежувальне скло та переговорний пристрій) та з дотриманням протиепідемічних правил; тривалих побачень засуджених (за умови наявності в установах виконання покарань та слідчих ізоляторах Державної кримінально-виконавчої служби вільних приміщень для ізоляції засуджених) з близькими родичами за відсутності у них на момент побачення ознак інфікування COVID-19 та наявності у осіб, які прибули на побачення, лабораторно підтвердженого негативного результату тестування їх на CОVID-19 методом полімеразної ланцюгової реакції, яке проведено не більш як за 48 годин до дня надання тривалого побачення, та оригіналу документа, що підтверджує оплату послуги виїзду працівника медичної лабораторії до засудженого з метою забору біоматеріалів для проведення тестування на COVID-19 зазначеним методом.</p>
+<p>Після тривалого побачення засуджені протягом 14 діб перебувають в приміщеннях для ізоляції, де їм на 12-й день ізоляції (або за наявності ознак інфікування COVID-19) обов&rsquo;язково проводиться тест на COVID-19 у присутності медичного працівника медичної частини філії державної установи &ldquo;Центр охорони здоров&rsquo;я Державної кримінально-виконавчої служби України&rdquo;.</p>
+<p>Відвідування та побачення, а також проведення заходів душпастирської опіки відбуваються виключно за умови використання такими особами засобів індивідуального захисту, зокрема респіраторів (без клапану видиху) або захисних масок, що закривають ніс та рот, у тому числі виготовлених самостійно, та відсутності у них на момент побачення ознак інфікування COVID-19.</p>
+<p><strong>Помаранчевий рівень</strong>&nbsp;встановлюється після жовтого і свідчить про ускладнення епідемічної ситуації. Він не передбачає встановлення додаткових обмежень на державному рівні, але сигналізує про небезпеку наближення до червоного рівня.</p>
+<p>На&nbsp;<strong>червоному</strong>&nbsp;рівні передбачається введення жорстких карантинних обмежень, які діяли під час січневого нокдауну, а саме забороняється:</p>
+<p>1) приймання відвідувачів суб&rsquo;єктами господарювання, які провадять діяльність у сфері громадського харчування (барів, ресторанів, кафе тощо), крім діяльності з надання послуг громадського харчування із здійсненням адресної доставки замовлень та замовлень на винос і закладів громадського харчування в аеропортах;</p>
+<p>2) приймання відвідувачів у торговельно-розважальних центрах, крім приймання відвідувачів у закладах, визначених у підпункті 4 пункту 3<sup>5</sup>&nbsp;постанови № 1236;</p>
+<p>3) приймання відвідувачів в інших закладах розважальної діяльності;</p>
+<p>4) приймання відвідувачів суб&rsquo;єктами господарювання, які провадять діяльність у сфері торговельного і побутового обслуговування населення, крім:</p>
+<p>приймання відвідувачів суб&rsquo;єктами господарювання, які торгують товарами на торговельних площах, не менше 60 відсотків яких призначено для торгівлі продуктами харчування, пальним, лікарськими засобами та виробами медичного призначення, засобами гігієни та побутовою хімією, засобами зв&rsquo;язку, друкованими засобами масової інформації, ветеринарними препаратами, кормами, насінням, засобами захисту рослин, без обмеження доступу відвідувачів до інших товарів, представлених в асортименті зазначених суб&rsquo;єктів господарювання;</p>
+<p>торговельної діяльності із здійсненням адресної доставки замовлень;</p>
+<p>провадження діяльності з надання фінансових послуг, діяльності фінансових установ і діяльності з інкасації та перевезення валютних цінностей, діяльності операторів поштового зв&rsquo;язку, а також медичної практики, ветеринарної практики, діяльності автозаправних комплексів (без зон харчування), діяльності з технічного обслуговування та ремонту транспортних засобів, ремонту комп&rsquo;ютерів, побутових виробів і предметів особистого вжитку, перукарень та салонів краси за попереднім записом;</p>
+<p>виконання робіт із збирання і заготівлі відходів;</p>
+<p>провадження діяльності з надання телекомунікаційних послуг. Приймання відвідувачів суб&rsquo;єктами господарювання, які провадять діяльність з надання телекомунікаційних послуг, здійснюється за попереднім записом;</p>
+<p>5) приймання відвідувачів закладів культури і проведення культурних масових заходів, крім роботи автоконцертів, автокінотеатрів, історико-культурних заповідників, суб&rsquo;єктів господарювання, пов&rsquo;язаної з виробництвом аудіовізуальних творів, зокрема здійснення кіно- та відеозйомки, за умови обмеження доступу до місця зйомки (знімального майданчика) сторонніх осіб та використання персоналом (крім акторів під час знімального процесу), залученим до виробництва аудіовізуального твору, засобів індивідуального захисту, зокрема респіраторів або захисних масок, що закривають ніс та рот, у тому числі виготовлених самостійно. Діяльність суб&rsquo;єктів господарювання, пов&rsquo;язана з виробництвом аудіовізуальних творів, не є масовим заходом;</p>
+<p>6) приймання у спортивних залах, фітнес-центрах, басейнах, відвідувачів, крім спортсменів національних збірних команд України та їх тренерів за умови дотримання відповідних санітарних і протиепідемічних заходів;</p>
+<p>7) проведення всіх масових (розважальних, спортивних, соціальних, рекламних та інших) заходів, крім офіційних спортивних заходів, включених до Єдиного календарного плану фізкультурно-оздоровчих та спортивних заходів України, та матчів командних ігрових видів спорту професійних спортивних клубів без глядачів за умови дотримання учасниками таких заходів відповідних санітарних і протиепідемічних заходів та здійснення обов&rsquo;язкового щоденного контролю за станом здоров&rsquo;я учасників;</p>
+<p>8) робота закладів громадського харчування та місць для харчування в готелях з 11-ї години до 6-ї години наступної доби, крім надання послуг з харчування в готельному номері за замовленням клієнтів;</p>
+<p>9) діяльність непродовольчих ринків;</p>
+<p>10) відвідування закладів освіти незалежно від форми власності її здобувачами, крім здобувачів закладів дошкільної освіти, спеціальних закладів освіти та учнів 1&mdash;4 класів закладів загальної середньої освіти.&rdquo;;</p>
+<p>Також&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/1236-2020-%D0%BF#Text">постановою № 1236</a>&nbsp;визначено порядок проходження самоізоляції та обсервації при перетині державного кордону України.</p>
+<p><a name="n76"></a><a name="n82"></a>Самоізоляція здійснюється з метою запобігання поширенню COVID-19 та зменшення кількості хворих з тяжким перебігом COVID-19.</p>
+<p><a name="n62"></a>З метою протидії поширенню COVID-19 та моніторингу самоізоляції використовується електронний сервіс &ldquo;Вдома&rdquo; Єдиного державного веб-порталу електронних послуг.</p>
+<p><a name="n63"></a>Самоізоляції підлягають:</p>
+<p><a name="n64"></a>1) особи, які мали контакт з пацієнтом з підтвердженим випадком COVID-19, крім осіб, які під час виконання службових обов&rsquo;язків використовували засоби індивідуального захисту відповідно до рекомендацій щодо їх застосування;</p>
+<p><a name="n65"></a>2) особи з підозрою на інфікування або з підтвердженим діагнозом захворювання на COVID-19 у легкій формі за умови, що особа не потребує госпіталізації;</p>
+<p><a name="n66"></a>3) особи, що перетинають державний кордон та прибули з держави або є громадянами (підданими) держав із значним поширенням COVID-19, крім таких осіб, якщо немає підстав вважати, що вони були в контакті із хворою на COVID-19 особою:</p>
+<p><a name="n67"></a>осіб, які не досягли 12 років;</p>
+<p><a name="n68"></a>осіб, які прибувають в Україну з метою навчання у закладах вищої освіти;</p>
+<p><a name="n69"></a>осіб, які є громадянами (підданими) держав із значним поширенням COVID-19 та не перебували на території таких держав протягом останніх 14 днів або прямують територією України транзитом та мають документи, що підтверджують виїзд за кордон протягом двох діб;</p>
+<p><a name="n70"></a>працівників дипломатичних представництв та консульських установ іноземних держав, представництв офіційних міжнародних місій, організацій, акредитованих в Україні, та членів їх сімей;</p>
+<p><a name="n71"></a>водіїв та членів екіпажу вантажних транспортних засобів, автобусів, що здійснюють регулярні перевезення, членів екіпажів повітряних і морських, річкових суден, членів поїзних і локомотивних бригад;</p>
+<p><a name="n72"></a>інструкторів збройних сил держав - членів НАТО та держав - учасниць програми НАТО &ldquo;Партнерство заради миру&rdquo;, які беруть участь у заходах з підготовки підрозділів Збройних Сил;</p>
+<p><a name="n73"></a>діячів культури за запрошенням закладу культури разом з однією особою, що супроводжує кожного з них;</p>
+<p><a name="n74"></a>осіб, що здійснюють перевезення гемопоетичних стовбурових клітин для трансплантації;</p>
+<p><a name="n75"></a>осіб, які мають негативний результат тестування на COVID-19 методом полімеразної ланцюгової реакції, який проведено не більш як за 48 годин до перетину кордону;</p>
+<p>4) особи, які прибувають з тимчасово окупованих територій у Донецькій та Луганській областях, Автономної Республіки Крим та м. Севастополя, крім таких осіб, якщо немає підстав вважати, що вони були в контакті із хворою на COVID-19 особою:</p>
+<p><a name="n77"></a>осіб, які не досягли 12 років;</p>
+<p><a name="n78"></a>працівників представництв офіційних міжнародних місій, організацій, акредитованих в Україні;</p>
+<p><a name="n79"></a>осіб, які мають намір вступити до закладів освіти, розташованих на території, де органи державної влади здійснюють свої повноваження в повному обсязі;</p>
+<p><a name="n80"></a>здобувачів освіти, які навчаються в закладах освіти, розташованих на території, де органи державної влади здійснюють свої повноваження в повному обсязі;</p>
+<p><a name="n81"></a>одного з батьків (усиновлювачів), опікунів, піклувальників, інших законних представників чи інших осіб, уповноважених одним із батьків (усиновлювачів), опікунів, піклувальників або інших законних представників, які супроводжують осіб, зазначених в абзацах четвертому і п&rsquo;ятому цього підпункту;</p>
+<p>5) особи з підтвердженим діагнозом COVID-19, виписані із закладу охорони здоров&rsquo;я, до моменту одужання відповідно до галузевих стандартів у сфері охорони здоров&rsquo;я.</p>
+<p>&nbsp;</p>
+<p><a name="n83"></a>Особа, яка підлягає самоізоляції у зв&rsquo;язку з перетинанням державного кордону або контрольних пунктів в&rsquo;їзду на тимчасово окуповані території в Донецькій та Луганській областях, Автономної Республіки Крим та м. Севастополя та виїзду з них, зобов&rsquo;язана встановити та активувати мобільний додаток системи &ldquo;Вдома&rdquo;. У разі неможливості встановлення такого мобільного додатка особа підлягає обсервації.</p>
+<p><a name="n476"></a><a name="n395"></a>Самоізоляція, обсервація особи у зв&rsquo;язку з перетинанням державного кордону або контрольних пунктів в&rsquo;їзду на тимчасово окуповані території в Донецькій та Луганській областях, Автономної Республіки Крим та м. Севастополя та виїзду з них припиняється в разі одержання негативного результату тестування на COVID-19 методом полімеразної ланцюгової реакції, який проведено після перетинання державного кордону або контрольних пунктів в&rsquo;їзду на тимчасово окуповані території в Донецькій та Луганській областях, Автономної Республіки Крим та м. Севастополя.<a name="n84"></a>&nbsp;З метою уникнення непорозумінь та проблемних ситуацій рекомендуємо ознайомитися з&nbsp;<a href="https://www.phc.org.ua/news/algoritm-pripinennya-samoizolyacii-dlya-osib-scho-peretnuli-derzhavniy-kordon">алгоритмом припинення самоізоляції для осіб, що перетнули державний кордон</a>.</p>
+<p>31 грудня 2020 року Міністерство охорони здоров&rsquo;я оновило&nbsp;<a href="https://zakon.rada.gov.ua/rada/show/v0762282-20#n471">єдиний державний протокол лікування</a>&nbsp; хворих на COVID-19. Протокол розроблено фахівцями Міністерства та найкваліфікованішими спеціалістами в галузі охорони здоров&rsquo;я. Загалом до протоколу повністю включено підходи щодо медикаментозної терапії та кисневої підтримки при коронавірусній інфекції.</p>
+<p>Також у січні 2021 року&nbsp; оновлено&nbsp;<a href="https://zakon.rada.gov.ua/rada/show/v0722282-20#n12">Стандарти надання медичної допомоги хворим на COVID-19,</a>&nbsp;які визначають чіткий алгоритм дій при появі симптомів COVID-19.</p>
+<p>Відповідно до цих алгоритмів, пацієнтів з легкою формою захворювання, які не мають ризику ускладнень, а&nbsp;також пацієнтів, що одужують та вже не потребують цілодобового нагляду лікарів, рекомендовано лікувати амбулаторно, тобто в домашніх умовах.</p>
+<p>При цьому лікарі забезпечують постійний контроль поточного стану пацієнта і його контактних осіб за телефоном та/або можуть здійснювати виїзні консультації з дотриманням правил інфекційного контролю. Медичні працівники, які надають медичну допомогу за місцем проживання, і контактні особи пацієнта обов&#39;язково мають використовувати засоби індивідуального захисту.</p>
+<p>Амбулаторне (домашнє) лікування суворо заборонене у разі, якщо пацієнт перебуває в групі ризику щодо розвитку ускладнень або має симптоми, що характеризують середньо-тяжкий і тяжкий перебіг.</p>
+<p>До таких симптомів відносяться: ядуха; утруднене дихання; збільшення частоти дихальних рухів більше фізіологічної норми; кровохаркання; шлунково-кишкові симптоми (нудота, блювання, діарея); зміни психічного стану (сплутаність свідомості, загальмованість).</p>
+<p>Стандарти надання медичної допомоги (COVID-19) затверджені&nbsp;<a href="https://zakon.rada.gov.ua/rada/show/v0722282-20#n65" target="_blank">наказом МОЗ від 28.03.2020 №&nbsp;722 (зі змінами).&nbsp;</a>Вони ґрунтуються на рекомендаціях Всесвітньої організації охорони здоров&#39;я, оновлених після поширення хвороби за межі Китаю, та є адаптованими до потреб системи охорони здоров&#39;я України.</p>
+<p>Також у всіх областях України створені мобільні бригади, які виїжджають на виклик сімейного лікаря, екстреної медичної допомоги та інших медичних працівників до пацієнтів з підозрою на COVID-19 для забору зразків на проведення досліджень у лабораторії. Це значно зменшить мобільність людей, які мають симптоми гострого вірусного захворювання та потребують здачі відповідних аналізів.</p>
+<p>Про випадки відмови від проведення дослідження на коронавірусну інфекцію, за наявності симптомів та підпадання під визначення випадку, просимо повідомляти на&nbsp;<a href="https://moz.gov.ua/article/health/telefoni-garjachoi-linii-covid-19">визначену гарячу лінію вашої області.&nbsp;</a></p>
+<p>Головним державним санітарним лікарем України розробляються та затверджуються протиепідемічні заходи, які визначають особливості провадження діяльності суб&rsquo;єктами господарювання на період карантину. Зокрема, затверджені тимчасові рекомендації щодо організації протиепідемічних заходів на період карантину:</p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/43%20%D0%BE%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%87%D1%96.pdf">&nbsp;у дитячих закладах оздоровлення та відпочинку</a><u>;</u></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2050.pdf">у закладах освіти</a>&nbsp;(окрім закладів дошкільної освіти);</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%93%D0%94%D0%A1%D0%9B%D0%A3_%E2%84%9655.pdf">у закладах дошкільної освіти</a>;</p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2034_1.pdf">при торгівлі на ринках</a>;</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2017.pdf">при торгівлі продовольчими (окрім ринків) та непродовольчими товарами</a>;</p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%93%D0%94%D0%A1%D0%9B_30.12.2020_57.pdf">у закладах громадського харчування;</a></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B026.pdf">при перевезенні пасажирів метрополітену</a>;</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2023.pdf">при наданні послуг з перевезення пасажирів громадським міським, приміським, міжміським транспортом (крім метрополітену), на міжобласних та міжнародних маршрутах;</a></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2039.pdf">при організації залізничних перевезень</a>;</u></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2036.pdf">у закладах, що надають послуги з розміщення (крім готелів)</a>;</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2022.pdf">в готелях</a>;</p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D1%8F%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8%20%E2%84%96%2048%20%D0%B2%D1%96%D0%B4%20%2004.08.2020.pdf">в гуртожитках</a>;</u></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%93%D0%94%D0%A1%D0%9B%D0%A3_54.pdf">в деяких закладах фізичної культури та спорту</a>&nbsp;;</u></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D1%8F%20%20%E2%84%96%2045.pdf">у закладах культури та креативних індустрій при проведенні культурно-мистецьких заходів</a>;</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2020.pdf">в перукарнях та салонах краси</a>;</p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2019.pdf">при наданні стоматологічної допомоги</a>;</p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2016.pdf">при здійсненні дозволених видів діяльності, які передбачають приймання відвідувачів у офісних приміщеннях</a>;</p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2051.pdf">під час проведення футбольних матчів в Україні&nbsp;серед професіональних футбольних клубів</a>;</u></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2053%20%D0%B2%D1%96%D0%B4%2009.09.2020%20%D1%80%D0%BE%D0%BA%D1%83.pdf">під час проведення баскетбольних матчів в Україні серед професійних баскетбольних клубів;</a></u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%93%D0%94%D0%A1%D0%9B%D0%A3%2058.pdf">під час проведення спортивних змагань;</a></p>
+<p><u><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2037.pdf">у деяких підприємствах, установах і організаціях молодіжної сфери та сфери національно-патріотичного виховання</a>;</u></p>
+<p><a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%2015.pdf">в закладах стаціонарної психіатричної допомоги, медико-соціального та соціального захисту населення</a>.</p>
+<p><strong>Також затверджені&nbsp;<a href="https://moz.gov.ua/uploads/ckeditor/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B8/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%A1%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%B8%D0%B9%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80/%D0%9F%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0%20%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B0%D0%BD%D1%96%D1%82%D0%B0%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BB%D1%96%D0%BA%D0%B0%D1%80%D1%8F%20%20%E2%84%96%2044.pdf">рекомендації щодо безпечного поховання</a>&nbsp;померлих від COVID-19.</strong></p>
+<p><strong>Усі постанови та розпорядженнями Головного державного санітарного лікаря України розміщуються за&nbsp;<a href="https://moz.gov.ua/golovnij-derzhavnij-sanitarnij-likar-ukraini">посиланням</a>.</strong></p>
+<p>Також Урядом затверджено&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/1236-2020-%D0%BF#Text">Порядок здійснення протиепідемічних заходів під час організації та проведення виборів</a>.</p>
+<p>&nbsp;25 березня 2020 року Уряд запровадив&nbsp;<a href="https://zakon.rada.gov.ua/laws/show/338-2020-%D1%80#n5">режим надзвичайної ситуації</a>&nbsp;на всій території України. Міністра охорони здоров&rsquo;я визначено керівником робіт з ліквідації наслідків медико-біологічної надзвичайної ситуації природного характеру державного рівня, пов&rsquo;язаної з поширенням на території України гострої респіраторної хвороби COVID-19, спричиненої коронавірусом SARS-CoV-2&nbsp; У зв&rsquo;язку із складною епідемічною ситуацією режим надзвичайної ситуації подовжено до 30&nbsp;квітня 2021 року.</p>
+<p>При плануванні відряджень та інших подорожей за кордон варто дотримуватися&nbsp;<a href="https://mfa.gov.ua/news/rekomendaciyi-gromadyanam-ukrayini-yaki-planuyut-zdijsniti-podorozhi-za-kordon">рекомендацій МЗС</a>. &nbsp;</p>
+<p><strong>Для профілактики захворювання слід дотримуватись стандартних рекомендацій:</strong></p>
+<ol>
+<li>часто мийте руки або обробляйте дезінфікуючими засобами;</li>
+<li>під час кашлю та чхання прикривайте рот і ніс паперовою хустинкою. уникайте тісного контакту з усіма, хто має гарячку та кашель;</li>
+<li>якщо маєте підвищену температуру тіла, кашель й утруднене дихання, якнайшвидше зверніться до лікаря та повідомте йому попередньою історією подорожей;</li>
+<li>не споживайте сирих чи недостатньо термічно оброблених продуктів тваринного походження;</li>
+<li>&nbsp;Джерела з актуальною інформацією щодо випадків захворовання спричинених новим коронавірусом:</li>
+</ol>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://moz.gov.ua/search?tag=%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81">КОРОНАВІРУС</a></li>
+</ul>
+<p>&nbsp;</p>
+<p>Чи був для вас цей матеріал корисним?</p>
+<p><a href="https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-cov19#">ТАК</a>&nbsp;<a href="https://moz.gov.ua/article/news/operativna-informacija-pro-poshirennja-koronavirusnoi-infekcii-2019-cov19#">НІ</a></p>
+<h5>ПОДІЛИТИСЬ</h5>
+<p>&nbsp;</p>
+</div>
+<div class="article__links">
+<div class="menu-flex-wrapper" data-parent=".article__links">
+<ul class="menu-flex">
+<li class="links__item">
+<a class="h6 links__link font_gray-light-to-black font_upper" href="/search?tag=%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81">Коронавірус</a> </li>
+</ul>
+</div>
+<div class="service__line-social">
+<a class="service__line-social-icon share__social-icon fb-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__fb">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon twitter-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__twitter">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__twitter"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon google-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__google">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__google"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon linkedin-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__linkedin">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__linkedin"></use>
+</svg>
+</i>
+</a>
+</div>
+</div>
+</div>
+<div class="material">
+<form id="useful-answer-form" action="/useful/submit" method="post">
+<input type="hidden" name="_csrf" value="49JA1c4TKKp-d4ZVHl-Ikq-x_QGXi0KDoJb3DtnTVD6N4m2gqXwekgou0TlBFubq3-DPWaf7c-vpo4E4nOYFUg==">
+<input type="hidden" id="usefulanswers-entity_model_name" class="form-control" name="UsefulAnswers[entity_model_name]" value="News">
+<input type="hidden" id="usefulanswers-entity_model_id" class="form-control" name="UsefulAnswers[entity_model_id]" value="10265">
+<input type="hidden" id="usefulanswers-entity_model_label" class="form-control" name="UsefulAnswers[entity_model_label]" value="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
+<input type="hidden" id="usefulanswers-is_useful" class="is_useful_value" name="UsefulAnswers[is_useful]" value="0">
+<div class="useful bg_white-noise">
+<p class="useful__title h4 font_black">
+Чи був для вас цей матеріал корисним? </p>
+<div class="useful__btn-wrapper">
+<a class="useful__btn useful__btn-yes h5 font_upper font_black-to-white bg_yellow-to-black bg_contrast_yellow-to-white" href="#">Так</a> <a class="useful__btn useful__btn-no h5 font_upper font_black bg_white" href="#">Ні</a> </div>
+</div>
+<div class="useful__qa bg_white-noise">
+<p class="useful__qa-title h4 font_black">
+На цій сторінці немає нічого корисного, тому що (оберіть варіанти відповідей) </p>
+<div class="useful__qa-checkbox">
+<input type="hidden" name="UsefulAnswers[fail_reasons]" value=""><div id="usefulanswers-fail_reasons"><label><input type="checkbox" name="UsefulAnswers[fail_reasons][]" value="Дуже мало інформації"> <span class="regular font_gray-dark-to-black">Дуже мало інформації</span></label>
+<label><input type="checkbox" name="UsefulAnswers[fail_reasons][]" value="Забагато інформації"> <span class="regular font_gray-dark-to-black">Забагато інформації</span></label>
+<label><input type="checkbox" name="UsefulAnswers[fail_reasons][]" value="Незрозуміло, про що йдеться"> <span class="regular font_gray-dark-to-black">Незрозуміло, про що йдеться</span></label>
+<label><input type="checkbox" name="UsefulAnswers[fail_reasons][]" value="Інформація не відповідає оголошеній темі"> <span class="regular font_gray-dark-to-black">Інформація не відповідає оголошеній темі</span></label></div>
+</div>
+<input type="text" id="usefulanswers-fail_reason_other" class="useful__qa-textarea form-input material__textarea regular font_gray-to-black" name="UsefulAnswers[fail_reason_other]" placeholder="Інше">
+<div class="useful__qa-btn-wrapper">
+<a class="useful__qa-btn h5 font_upper font_black-to-white bg_yellow-to-black bg_contrast_yellow-to-white" href="#">Далі</a> </div>
+</div>
+<div class="useful__submit bg_white-noise">
+<p class="useful__submit-title h4 font_black">Як ми можемо поліпшити цю строніку?</p>
+<input type="text" id="usefulanswers-proposition" class="useful__submit-textarea material__textarea form-input regular font_gray-to-black" name="UsefulAnswers[proposition]" placeholder="Ваша пропозиція">
+<div class="useful__submit-btn-wrapper">
+<input type="submit" class="useful__submit-btn form-input h5 font_upper font_black-to-white bg_yellow-to-black bg_contrast_yellow-to-white" value="Надіслати"> </div>
+</div>
+</form></div>
+</div>
+<div class="flex-wrapper">
+<div class="share__social">
+<h5 class="h5 block__title font_upper font_black">
+Поділитись <span class="block__title-stripe bg_yellow-to-black bg_contrast_yellow-to-white"></span>
+</h5>
+<div class="service__line-social">
+<a class="service__line-social-icon share__social-icon fb-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__fb">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon twitter-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__twitter">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__twitter"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon google-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__google">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__google"></use>
+</svg>
+</i>
+</a>
+<a class="service__line-social-icon share__social-icon linkedin-share" href="#">
+<i class="service__line-social-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
+<svg class="icon icon__linkedin">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__linkedin"></use>
+</svg>
+</i>
+</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+<div class="container">
+<div class="news__row">
+<h5 class="h5 heading__title font_upper font_black">
+читайте також <span class="heading__title-stripe bg_yellow-to-black bg_contrast_yellow-to-white"></span>
+</h5>
+
+
+
+<div class="clearfix"></div>
+<ul class="news__list slider">
+<li class="news__list-item">
+<a class="news__img-link" href="/article/news/oznaki-dlja-viznachennja-regionu-zi-znachnim-poshirennjam-covid-19">
+<div class="h5 more-info font_upper font_white">
+Докладніше <span class="more-info__stripe bg_white"></span>
+</div>
+<div class="news__img-overlay">
+<div class="news__img-wrapper">
+<img class="news__img obj-fit" src="/uploads/0/2324-b6f38b24bb663cd5fbf9126dc9dd686e_2.jpg" alt="Ознаки для визначення регіону зі значним поширенням COVID-19"> </div>
+</div>
+</a>
+<div class="menu-flex-wrapper" data-parent=".news__list-item">
+<ul class="links menu-flex">
+<li class="links__item">
+<a class="h6 links__link font_gray-light-to-black font_upper" href="/search?tag=%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81">Коронавірус</a> </li>
+</ul>
+</div>
+<a class="news__desc regular font_black dot" href="/article/news/oznaki-dlja-viznachennja-regionu-zi-znachnim-poshirennjam-covid-19" data-height="100">Ознаки для визначення регіону зі значним поширенням COVID-19</a>
+</li>
+<li class="news__list-item">
+<a class="news__img-link" href="/article/reform-plan/moz-onovilo-nacionalnij-protokol-nadannja-medichnoi-dopomogi-pri-covid-19">
+<div class="h5 more-info font_upper font_white">
+Докладніше <span class="more-info__stripe bg_white"></span>
+</div>
+<div class="news__img-overlay">
+<div class="news__img-wrapper">
+<img class="news__img obj-fit" src="/uploads/thumb/5/article_medium/26153-22.jpg" alt="МОЗ оновило національний протокол надання медичної допомоги при COVID-19"> </div>
+</div>
+</a>
+<div class="menu-flex-wrapper" data-parent=".news__list-item">
+<ul class="links menu-flex">
+<li class="links__item">
+<a class="h6 links__link font_gray-light-to-black font_upper" href="/search?tag=%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81">Коронавірус</a> </li>
+</ul>
+</div>
+<a class="news__desc regular font_black dot" href="/article/reform-plan/moz-onovilo-nacionalnij-protokol-nadannja-medichnoi-dopomogi-pri-covid-19" data-height="100">МОЗ оновило національний протокол надання медичної допомоги при COVID-19</a>
+</li>
+<li class="news__list-item">
+<a class="news__img-link" href="/article/news/moz-onovilo-nacionalnij-protokol-nadannja-medichnoi-dopomogi-pri-covid-19">
+<div class="h5 more-info font_upper font_white">
+Докладніше <span class="more-info__stripe bg_white"></span>
+</div>
+<div class="news__img-overlay">
+<div class="news__img-wrapper">
+<img class="news__img obj-fit" src="/uploads/0/2324-b6f38b24bb663cd5fbf9126dc9dd686e_2.jpg" alt="МОЗ оновило національний протокол надання медичної допомоги при COVID-19"> </div>
+</div>
+</a>
+<div class="menu-flex-wrapper" data-parent=".news__list-item">
+<ul class="links menu-flex">
+<li class="links__item">
+<a class="h6 links__link font_gray-light-to-black font_upper" href="/search?tag=%D0%9A%D0%BE%D1%80%D0%BE%D0%BD%D0%B0%D0%B2%D1%96%D1%80%D1%83%D1%81">Коронавірус</a> </li>
+</ul>
+</div>
+<a class="news__desc regular font_black dot" href="/article/news/moz-onovilo-nacionalnij-protokol-nadannja-medichnoi-dopomogi-pri-covid-19" data-height="100">МОЗ оновило національний протокол надання медичної допомоги при COVID-19</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="press__subscribe no-margin">
+<div class="press__subscribe-wrapper bg_white-noise">
+<div class="press__subscribe-flex">
+<div class="press__subscribe-email">
+<div class="press__subscribe-email-bg-text font_upper font_white-to-light-blue">
+Email </div>
+<div class="press__subscribe-email-cnt">
+<span class="press__subscribe-email-heading font_black font_upper">ПІДПИСАТИСЯ</span>
+<div class="press__subscribe-hint-icon bg_yellow-to-black bg_contrast_yellow-to-white">
+<i class="press__subscribe-hint-svg fill_black-to-white">
+<svg class="icon icon__question">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__question"></use>
+</svg>
+</i>
+</div>
+<div class="press__subscribe-hint-popup bg_white">
+<div class="press__subscribe-hint-desc bg_white-to-dark-blue">
+<section class="online-form">
+<div class="online-form__content-wrapper">
+<p class="online-form__text regular font_gray-dark-to-black">
+Ця розсилка створена для того, щоб ділитися новинами щодо змін в українській медицині. Долучайтеся! </p>
+</div>
+<div class="online-form__stripe-wrapper">
+<span class="online-form__stripe bg_blue-to-black"></span>
+<span class="online-form__stripe bg_yellow-to-gray bg_contrast_yellow-to-white"></span>
+</div>
+</section>
+<div class="press__subscribe-hint-close-icon">
+<i class="press__subscribe-hint-close-svg fill_black">
+<svg class="icon icon__close">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__close"></use>
+</svg>
+ </i>
+</div>
+</div>
+</div>
+</div>
+</div>
+<form id="subscribe-form" class="press__subscribe-form" action="/subscribe" method="post">
+<input type="hidden" name="_csrf" value="49JA1c4TKKp-d4ZVHl-Ikq-x_QGXi0KDoJb3DtnTVD6N4m2gqXwekgou0TlBFubq3-DPWaf7c-vpo4E4nOYFUg==">
+<div class="form-group press__subscribe-form-wrapper field-subscribe-email required">
+<div class="form-label help-block press__subscribe-form-label regular"></div>
+<input type="text" id="subscribe-email" class="form-input press__subscribe-form-input regular font_gray-to-black bg_white-to-light-blue" name="Subscribe[email]" maxInput placeholder="E-mail" aria-required="true">
+</div>
+<button class="btn custom-press__subscribe-form-btn bg_yellow-to-black bg_contrast_yellow-to-white h5 font_black-to-white font_upper" type="submit">
+<span class="press__subscribe-form-btn-text">ПІДПИСАТИСЯ</span>
+<i class="press__subscribe-form-btn-svg fill_white">
+<svg class="icon icon__email">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__email"></use>
+</svg>
+</i>
+</button>
+</form>
+</div>
+</div>
+</div>
+<button type="button" class="main-popup-btn custom-hidden" data-popup-target="main-popup"></button>
+<div class="popup main-popup-container" data-popup-id="main-popup" tabindex="-1" role="dialog"></div>
+<div class="accordion-stopper"></div>
+<footer class="footer bg_blue-dark-to-black">
+<div class="container">
+<div class="footer__row">
+<div class="footer__address">
+<div class="footer__str-wrapper">
+<div class="footer__str">
+<div class="regular-small font_white">01601, м. Київ, вул. Грушевського, 7</div>
+</div>
+<div class="footer__str">
+<span class="regular-small font_white">Телефон:</span>
+<a class="regular-small font_white footer__phone" href="tel:(044) 253-61-94">
+(044) 253-61-94 </a>
+</div>
+<div class="footer__str">
+<span class="regular-small font_white">Факс:</span>
+<a class="regular-small font_white footer__phone" href="tel:(044) 253-40-17">
+(044) 253-40-17 </a>
+</div>
+<div class="footer__str">
+<a class="regular-small font_white" href="/cdn-cgi/l/email-protection#e08d8f9aa08d8f9ace878f96ce9581"><span class="__cf_email__" data-cfemail="a2cfcdd8e2cfcdd88cc5cdd48cd7c3">[email&#160;protected]</span></a>
+</div>
+<div class="footer__str footer__str_pt">
+<span class="regular-small font_white">Контакт-центр МОЗ з питань COVID-19</span>
+<div class="footer_phone_links">
+<a class="regular font_white footer__phone" href="tel:"></a>
+<a class="regular font_white footer__phone" href="tel:0 800 60 20 19">0 800 60 20 19</a>
+</div>
+</div>
+</div>
+<div class="footer__social">
+<a class="footer__social-logo" href="https://www.facebook.com/moz.ukr" target="_blank">
+<i class="footer__social-svg fill_white">
+<svg class="icon icon__fb">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
+</svg>
+</i>
+</a>
+<a class="footer__social-logo" href="https://www.youtube.com/channel/UC-kYPlo9h8F2--Xyesbh-8w" target="_blank">
+<i class="footer__social-svg fill_white">
+<svg class="icon icon__youtube">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__youtube"></use>
+</svg>
+</i>
+</a>
+<a class="footer__social-logo" href="https://twitter.com/MoH_Ukraine" target="_blank">
+<i class="footer__social-svg fill_white">
+<svg class="icon icon__twitter">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__twitter"></use>
+</svg>
+</i>
+</a>
+<a class="footer__social-logo" href="https://t.me/mozofficial" target="_blank">
+<i class="footer__social-svg fill_white">
+<svg class="icon icon__telegram">
+<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__telegram"></use>
+</svg>
+</i>
+</a>
+</div>
+</div>
+<div class="footer__nav">
+<div class="footer__nav-list footer__partition">
+<div class="footer__str">
+<div class="footer__title h5 font_upper font_gray">Розділи<span class="footer__nav-stripe bg_yellow-to-white bg_contrast_yellow-to-white"></span></div>
+</div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/pro-ministerstvo">Про міністерство</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/gromadjanam">Громадянам</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/medichnim-pracivnikam">Медичним працівникам</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/adminposlugi">Фахівцям</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/osvita">Освіта</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/pres-centr">Пресцентр</a> </div>
+</div>
+<div class="footer__nav-list">
+<div class="footer__str">
+<div class="footer__title h5 font_upper font_gray">Інструментарій<span class="footer__nav-stripe bg_yellow-to-white bg_contrast_yellow-to-white"></span></div>
+</div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/onlajn-forms">Онлайн форми</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/nakazi-moz">Накази</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/dovidnik">Довідник</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/dokumenti">Документи</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/kontakti">Контакти</a> </div>
+</div>
+<div class="footer__nav-list">
+<div class="footer__str">
+<div class="footer__title h5 font_upper font_gray">Інше<span class="footer__nav-stripe bg_yellow-to-white bg_contrast_yellow-to-white"></span></div>
+</div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/akreditacija-zakladu">Акредитація закладу</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/licenzuvannja">Ліцензування</a> </div>
+<div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/adminposlugi">Реєстри</a> </div>
+ <div class="footer__str">
+<a class="footer__nav-link regular-small font_white" href="/derzhavnij-nagljad">Державний нагляд (контроль)</a> </div>
+</div>
+</div>
+<div class="footer__logo">
+<a class="footer__logo-link" href="/">
+<div class="footer__logo-svg footer__logo-svg-eu">
+<svg class="footer__logo-svg-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewbox="0 0 370.9 229.8">
+<style type="text/css">
+                                    .footer__logo-svg-icon-st0 {
+                                        fill: #8A8B90;
+                                    }
+                                    .footer__logo-svg-icon-st1 {
+                                        font-family: 'BebasNeueRegular';
+                                    }
+                                    .footer__logo-svg-icon-st2 {
+                                        font-size: 62.6044px;
+                                    }
+                                    .footer__logo-svg-icon-st3 {
+                                        fill: #8A8B90;
+                                    }
+                                    .footer__logo-svg-icon-st4 {
+                                        fill: #8A8B90;
+                                    }
+                                </style>
+<g>
+<text class="footer__logo-svg-icon-st0 footer__logo-svg-icon-st1 footer__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 43.8436)">
+МIнIстерство
+</text>
+<text class="footer__logo-svg-icon-st0 footer__logo-svg-icon-st1 footer__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 105.8436)">
+охорони
+</text>
+<text class="footer__logo-svg-icon-st0 footer__logo-svg-icon-st1 footer__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 167.8436)">
+здоров’я
+</text>
+<text class="footer__logo-svg-icon-st0 footer__logo-svg-icon-st1 footer__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 229.8436)">
+УкраIни
+</text>
+</g>
+<g>
+<path class="footer__logo-svg-icon-st0" d="M37.6,25.4c-1.5,13.4-2.2,19.4-2.2,19.4s0.3-0.1,1-0.1s4.3,0.9,4.3,4.2s-2.9,4.4-4.3,4.4s-1.5-0.2-1.5-0.2                                s-6.7-9.2-6.7-23.1c0-8.9,0.6-17,0.6-21.5c0-0.8,0-5.1-3.1-8.5c-3.1,3.4-3.1,7.7-3.1,8.5c0,4.6,0.6,12.7,0.6,21.5                                c0,13.9-6.7,23.1-6.7,23.1s-0.1,0.2-1.5,0.2s-4.3-1.1-4.3-4.4c0-3.3,3.6-4.2,4.3-4.2s1,0.1,1,0.1s-0.7-5.9-2.2-19.4                                C10.8,11,0,6,0,6v62.1h14.4c0,0,1,8.7,8.7,14.3c0,0,2.4,2.1,2.5,2.8c0.1-0.7,2.5-2.8,2.5-2.8c7.7-5.6,8.7-14.3,8.7-14.3h14.4V6                                C51.3,6,40.5,11,37.6,25.4z M4.4,15.2c0,0,3.9,4.9,5,10.6c0.6,5.3,1.9,15.5,1.9,15.5s-3.7,1.6-4.6,5.5c-0.7,0-2.3,0-2.3,0L4.4,15.2                                L4.4,15.2z M13.9,63.9H4.4V51h2.3c1.2,5.6,7.2,6.5,8.1,6.5C13.9,60.4,13.9,63.9,13.9,63.9z M23.5,76.9c-3.9-3.7-4.4-8.8-4.4-8.8                                h4.4C23.5,68.1,23.5,74.6,23.5,76.9z M18.3,63.9c0-2.6,0.3-4.1,0.7-5.3c4.3,0.7,4.5,5.3,4.5,5.3H18.3z M25.7,57.7                                c0,0-3.8-2.6-4.9-3.3c3-4.6,4.9-11.6,4.9-11.6s1.9,7,4.9,11.6C29.5,55.1,25.7,57.7,25.7,57.7z M27.9,76.9c0-2.3,0-8.8,0-8.8h4.4                                C32.3,68.1,31.8,73.2,27.9,76.9z M27.8,63.9c0,0,0.2-4.6,4.5-5.3c0.4,1.2,0.7,2.6,0.7,5.3H27.8z M47,63.9h-9.5c0,0,0-3.5-0.9-6.4                                c0.9,0,6.9-0.9,8.1-6.5H47V63.9z M47,46.8c0,0-1.6,0-2.3,0c-0.8-3.9-4.6-5.5-4.6-5.5s1.2-10.2,1.9-15.5c1.1-5.7,5-10.6,5-10.6V46.8                                z"></path>
+</g>
+<g>
+<path class="footer__logo-svg-icon-st0" d="M216.1,179.8v3.3h-3.2v-3.3H216.1z"></path>
+</g>
+<g>
+<path class="footer__logo-svg-icon-st0" d="M210,179.8v3.3h-3.4v-3.3H210z"></path>
+</g>
+<rect class="footer__logo-svg-icon-st3" x="76.6" y="114.7" width="5.1" height="115.2"></rect>
+<rect class="footer__logo-svg-icon-st4" x="76.6" y="0.3" width="5.1" height="114.6"></rect>
+</svg>
+</div>
+</a>
+<div class="footer__copyright regular-small font_white">
+<p class="hide1200">За підтримки</p> <img src="/img/giz_logo.svg" alt=""> </div>
+</div>
+</div>
+<div class="footer__row_bottom">
+<div class="footer__ref">
+<a class="footer__ref-link" href="/sitemap">
+<div class="h5 font_upper font_white">Карта сайту</div>
+<span class="footer__ref-stripe bg_white"></span>
+</a>
+</div>
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/compress/all-3af1f092a3826f9b1ba46140e46ffe40.js?v=1613466520"></script>
+<script type="text/javascript">jQuery(document).ready(function () {
+jQuery('#useful-answer-form').yiiActiveForm([{"id":"usefulanswers-entity_model_name","name":"entity_model_name","container":".field-usefulanswers-entity_model_name","input":"#usefulanswers-entity_model_name","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необхідно заповнити \"Entity name\"."});yii.validation.string(value, messages, {"message":"Значення \"Entity name\" має бути текстовим рядком.","max":255,"tooLong":"Значення \"Entity name\" повинно містити максимум 255 символів.","skipOnEmpty":1});}},{"id":"usefulanswers-entity_model_id","name":"entity_model_id","container":".field-usefulanswers-entity_model_id","input":"#usefulanswers-entity_model_id","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необхідно заповнити \"Entity ID\"."});yii.validation.number(value, messages, {"pattern":/^\s*[+-]?\d+\s*$/,"message":"Значення \u0022Entity ID\u0022 має бути цілим числом.","skipOnEmpty":1});}},{"id":"usefulanswers-entity_model_label","name":"entity_model_label","container":".field-usefulanswers-entity_model_label","input":"#usefulanswers-entity_model_label","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \"Entity Model Label\" має бути текстовим рядком.","max":255,"tooLong":"Значення \"Entity Model Label\" повинно містити максимум 255 символів.","skipOnEmpty":1});}},{"id":"usefulanswers-is_useful","name":"is_useful","container":".field-usefulanswers-is_useful","input":"#usefulanswers-is_useful","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.number(value, messages, {"pattern":/^\s*[+-]?\d+\s*$/,"message":"Значення \u0022Відповідь корисна?\u0022 має бути цілим числом.","skipOnEmpty":1});}},{"id":"usefulanswers-fail_reasons","name":"fail_reasons","container":".field-usefulanswers-fail_reasons","input":"#usefulanswers-fail_reasons","enableAjaxValidation":true},{"id":"usefulanswers-fail_reason_other","name":"fail_reason_other","container":".field-usefulanswers-fail_reason_other","input":"#usefulanswers-fail_reason_other","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \"Fail Reason Other\" має бути текстовим рядком.","max":255,"tooLong":"Значення \"Fail Reason Other\" повинно містити максимум 255 символів.","skipOnEmpty":1});}},{"id":"usefulanswers-proposition","name":"proposition","container":".field-usefulanswers-proposition","input":"#usefulanswers-proposition","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \"Пропозиція\" має бути текстовим рядком.","skipOnEmpty":1});}}], {"validationUrl":"\/useful\/validate"});
+jQuery('#subscribe-form').yiiActiveForm([{"id":"subscribe-email","name":"email","container":".field-subscribe-email","input":"#subscribe-email","error":".form-label.help-block.press__subscribe-form-label.regular","enableAjaxValidation":true,"validate":function (attribute, value, messages, deferred, $form) {yii.validation.required(value, messages, {"message":"Необхідно заповнити \"Email\"."});yii.validation.email(value, messages, {"pattern":/^[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?$/,"fullPattern":/^[^@]*<[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-zA-Z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?\.)+[a-zA-Z0-9](?:[a-zA-Z0-9-]*[a-zA-Z0-9])?>$/,"allowName":false,"message":"Значення \u0022Email\u0022 не є правильною email адресою.","enableIDN":false,"skipOnEmpty":1});yii.validation.string(value, messages, {"message":"Значення \"Email\" має бути текстовим рядком.","max":255,"tooLong":"Значення \"Email\" повинно містити максимум 255 символів.","skipOnEmpty":1});}}], {"validationUrl":"\/subscribe\/validate"});
+jQuery('#global-search-form').yiiActiveForm([{"id":"searchform-q","name":"q","container":".field-searchform-q","input":"#searchform-q","validate":function (attribute, value, messages, deferred, $form) {yii.validation.string(value, messages, {"message":"Значення \"Q\" має бути текстовим рядком.","min":3,"tooShort":"Значення \"Q\" повинно містити мінімум 3 символа.","max":255,"tooLong":"Значення \"Q\" повинно містити максимум 255 символів.","skipOnEmpty":1});yii.validation.required(value, messages, {"message":"Необхідно заповнити \"Q\"."});}}], []);
+});</script></body>
+</html>
