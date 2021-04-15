@@ -9,18 +9,24 @@
 	curl_close($c);    
 	
 	$lines = file($PATH);
-	$disallowed = 'абгґдеєжзиіїйклмнопрстуфхцчшщьюя&nbspdahrtvico;<>-_+:;*\/?!|" ';
-	$st = (int)find_line("даними Центру", $PATH);
-	$all_vac_1 = str_replace(str_split($disallowed), '', between_strings($lines[$st], 'али 1 дозу', ' ос'));
-	$all_vac_2 = str_replace(str_split($disallowed), '', between_strings($lines[$st], '2 дози)', 'ос'));
-	$all_vac = parse_string($all_vac_1 + $all_vac_2);
-	$tdy_vac = parse_string(str_replace(str_split($disallowed), '', str_replace('covid-19', '', between_strings($lines[$st+1], 'щеплено', ', '))));
+	$disallowed = 'абгґдеєжзиіїйклмнопрстуфхцчшщьюя&nbspdahgrtvico;<>-_+:;*\/?!|" ';
+	//$st = (int)find_line("даними Центру", $PATH);
 	$report_date = str_replace(' </div>', '', translate($lines[(int)find_line("article__views-cnt-date", $PATH)]));
-	$test_all = parse_string(str_replace(str_split(' </p>'), '', $lines[(int)find_line("проведено ПЛР-тестувань", $PATH) + 4]));
+	$vac_all = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("(від початку кампанії)", $PATH) + 2], '<strong>', '</strong>')));
+	$vac_tdy = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("(за добу):", $PATH) + 2], '<strong> ', '</strong>')));
+	$test_all = parse_string(str_replace(str_split($disallowed), '', $lines[(int)find_line("проведено ПЛР-тестувань", $PATH) + 4]));
 	$test_tdy = parse_string(str_replace(str_split($disallowed), '', $lines[(int)find_line("Здійснено тестувань за добу", $PATH) + 3]));
 	
-	$data_table = [[]];				
-	$x = (int)find_line("<p><strong>Україна</strong></p>", $PATH) + 2;
+	$data_table = [[]];
+	$x = (int)find_line("<p><strong>Україна</strong></p>", $PATH) + 2; 
+	$x_cell = 3;
+	$x_line = 4;	
+
+	while (strpos($lines[$x], '<p>') === false) {
+		$x += 1;
+		$x_cell += 2;
+		$x_line += 1;
+	} 
 
 	for ($i = 0; $i < 26; $i++) {
 		for ($j = 0; $j < 6; $j++) {
@@ -30,12 +36,20 @@
 			// $data_table[$i][$j] = parse_string(str_replace(str_split($disallowed), '', $lines[$x]));
 					
 			$data_table[$i][$j] = str_replace(str_split($disallowed), '', $lines[$x]);
-			$x += 3;		
+			$x += $x_cell;		
 		}
-		$x += 5;
+		$x += $x_line;
 	}
 
-	$procents = [];
+	// for ($i = 0; $i < 26; $i++) {
+	// 	echo $i . ") <br>";
+	// 	for ($j = 0; $j < 6; $j++) {
+	// 		echo $data_table[$i][$j] . "     ";
+	// 	}
+	// 	echo "<br>";
+	// }
+
+	$procents = [];	
 	for ($i = 1; $i < 26; $i++)
 	{
 		$procents[$i] = (float)((float)$data_table[$i][0] / ((float)$data_table[0][0] / 100));

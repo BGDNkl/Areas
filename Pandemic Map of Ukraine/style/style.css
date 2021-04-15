@@ -185,7 +185,9 @@ object:hover {
     font-weight: 400;
 }
 
-
+#icos {
+    font-size: 1.2vw !important;
+}
 #svg_tt_1 {
     float: left;
     margin-left: 6.5%; 
