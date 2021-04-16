@@ -17,13 +17,13 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 </head>
 
-<body>														
+<body onload="changeLang('en')">														
 	<table class="center">
 		<tr>
 			<th style="width: 30%;">
 				<section style="height: 5%;">
 					<!-- T I T L E -->
-					<h2>COVID-19 pandemic in Ukraine</h2>						
+					<h2 id="ttl"></h2>						
 				</section>
 				
 				<section style="height: 65%;">					
@@ -31,9 +31,9 @@
 					<!-- H E A D E R   T A B L E -->
 					<table id="h_tab"> 						
 						<tr>
-							<td copspan="2" style="width: 48%;"><h3> Report for: <h3><h4> <?php echo $report_date; ?> </h4></th>
-							<th scope="col" id="head_tdy">Totay:</th> 
-							<th scope="col" id="head_all">Overall:</th>
+							<td copspan="2" style="width: 48%;"><h3 id="rp"> <h3><h4> <?php echo $report_date; ?> </h4></th>
+							<th scope="col" id="head_tdy"></th> 
+							<th scope="col" id="head_all"></th>
 						</tr>	
 					</table>
 
@@ -52,7 +52,7 @@
 								<td>
 									<img id="icos" src = "img/virus.svg" alt="new cases"/>
 								</td>
-								<td id="lft">Cases:</td>
+								<td id="lft-1"></td>
 								<td id="rgt"><?php echo parse_string($data_table[0][1]); ?></td> 
 								<td id="rgt"><?php echo parse_string($data_table[0][0]); ?></td> 
 							</tr>							              
@@ -63,7 +63,7 @@
 										<path d="M10.854 5.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7.5 7.793l2.646-2.647a.5.5 0 0 1 .708 0z"/>
 									</svg>
 								</td>
-								<td id="lft">Recovered:</td>
+								<td id="lft-2"></td>
 								<td id="rgt"><?php echo parse_string($data_table[0][5]); ?></td> 
 								<td id="rgt"><?php echo parse_string($data_table[0][4]); ?></td> 
 							</tr>
@@ -74,7 +74,7 @@
 										<path d="M6.146 5.146a.5.5 0 0 1 .708 0L8 6.293l1.146-1.147a.5.5 0 1 1 .708.708L8.707 7l1.147 1.146a.5.5 0 0 1-.708.708L8 7.707 6.854 8.854a.5.5 0 1 1-.708-.708L7.293 7 6.146 5.854a.5.5 0 0 1 0-.708z"/>
 									</svg>
 								</td>
-								<td id="lft">Died:</td>
+								<td id="lft-3"></td>
 								<td id="rgt"><?php echo parse_string($data_table[0][3]); ?></td> 
 								<td id="rgt"><?php echo parse_string($data_table[0][2]); ?></td> 
 							</tr>
@@ -86,7 +86,7 @@
 										<path d="m297.898438 409.761719-35.8125-87.289063c-2.09375-5.109375-7.933594-7.554687-13.046876-5.457031-5.109374 2.09375-7.550781 7.9375-5.457031 13.046875l35.8125 87.289062c1.585938 3.871094 5.316407 6.207032 9.257813 6.207032 1.261718 0 2.546875-.238282 3.789062-.75 5.109375-2.09375 7.554688-7.9375 5.457032-13.046875zm0 0"/>
 									</svg>
 								</td>
-								<td id="lft">Tests:</td>
+								<td id="lft-4"></td>
 								<td id="rgt"><?php echo $test_tdy; ?></td> 									
 								<td id="rgt"><?php echo $test_all; ?></td> 									
 							</tr>
@@ -94,7 +94,7 @@
 								<td>
 									<img src = "img/syringe.svg" id="icos" alt="vaccinated"/>
 								</td>
-								<td id="lft">Vaccinated:</td>
+								<td id="lft-5"></td>
 								<td id="rgt"><?php echo $vac_tdy; ?></td> 																	
 								<td id="rgt"><?php echo $vac_all; ?></td> 																	
 							</tr>
@@ -104,7 +104,7 @@
 
 				<section style="height: 15%;">
 					<!-- B U T T O N -->
-					<a href="javascript:void(0)" class="button" class="rounded" id="my_btn" onclick="myPopup('Info', 700, 700);">See the Government Reports</a>
+					<a href="javascript:void(0)" class="button" id="my_btn" onclick="myPopup('Info', 700, 700);"></a>
 				</section>
                 
 				<section style="height: 1%;"></section>
@@ -114,18 +114,40 @@
 				<section style="height: 3%;"></section>
 				              
 				<section style="height: 79%;">
-					<!-- SVG: -->
-					<!-- <object type="image/svg+xml" data="img/map.svg"></object> -->
-					
-					<!-- SVG in PHP: -->
-					<object data="img/map.php" width="800vh" height="550vh"></object>
+					<section style="height: 95%;">
+						<!-- SVG: -->
+						<!-- <object type="image/svg+xml" data="img/map.svg"></object> -->
+						
+						<!-- SVG in PHP: -->
+						<object id="obj" width="800vh" height="550vh"></object>
+					</section>
+
+					<section id="dots" style="height: 5%;">
+						<!-- D O T S -->
+						<div class="tooltip" id="svg_dot_1">
+							<span id="sp4" class="tooltiptext"></span>
+							<a>							
+							<svg id="my_dot_1" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16" onclick="changeMap(1)">
+								<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+							</svg>								
+							</a>
+						</div>
+						<div class="tooltip" id="svg_dot_2">
+							<span id="sp5" class="tooltiptext"></span>
+							<a>							
+							<svg id="my_dot_2" xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16" onclick="changeMap(2)">
+								<path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+							</svg>								
+							</a>
+						</div>
+					</section>
 				</section>
                 
 				<section style="height: 2%;">					
 					<!-- Custom Footer -->											
 					<div id="ftr">	
 						<div class="tooltip" id="svg_tt_1">
-							<span class="tooltiptext">Data from the temporarily occupied territories of the Autonomous Republic of Crimea, Donetsk, Luhansk oblasts and the city of Sevastopol are missing.</span>
+							<span id="sp1" class="tooltiptext">Data from the temporarily occupied territories of the Autonomous Republic of Crimea, Donetsk, Luhansk oblasts and the city of Sevastopol are missing.</span>
 							<a id="n_link">							
 								<svg id="my_svg_1" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="rgb(241, 241, 241)"  viewBox="0 0 16 16">
 									<path d="M8 0a1 1 0 0 1 1 1v5.268l4.562-2.634a1 1 0 1 1 1 1.732L10 8l4.562 2.634a1 1 0 1 1-1 1.732L9 9.732V15a1 1 0 1 1-2 0V9.732l-4.562 2.634a1 1 0 1 1-1-1.732L6 8 1.438 5.366a1 1 0 0 1 1-1.732L7 6.268V1a1 1 0 0 1 1-1z"/>
@@ -133,13 +155,28 @@
 							</a>
 						</div>
 						<div class="tooltip" id="svg_tt_2">
-							<span class="tooltiptext">if you see this sign "?" – it means that the official source did not specify this data in today's report.</span>
+							<span id="sp2" class="tooltiptext">If you see this sign "?" – it means that the official source did not specify this data in today's report.</span>
 							<a id="n_link">							
 								<svg id="my_svg_2" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="rgb(241, 241, 241)" class="bi bi-question" viewBox="0 0 16 16">
 									<path d="M5.255 5.786a.237.237 0 0 0 .241.247h.825c.138 0 .248-.113.266-.25.09-.656.54-1.134 1.342-1.134.686 0 1.314.343 1.314 1.168 0 .635-.374.927-.965 1.371-.673.489-1.206 1.06-1.168 1.987l.003.217a.25.25 0 0 0 .25.246h.811a.25.25 0 0 0 .25-.25v-.105c0-.718.273-.927 1.01-1.486.609-.463 1.244-.977 1.244-2.056 0-1.511-1.276-2.241-2.673-2.241-1.267 0-2.655.59-2.75 2.286zm1.557 5.763c0 .533.425.927 1.01.927.609 0 1.028-.394 1.028-.927 0-.552-.42-.94-1.029-.94-.584 0-1.009.388-1.009.94z"/>
 								</svg>								
 							</a>
 						</div>
+
+						<div class="tooltip" id="svg_tt_3">
+							<!-- L A N G -->
+
+							<!-- v1: select-option -->
+							<!-- <select id="lang_selector" onchange="changeLang()">
+								<option value="en">ENG</option>
+								<option value="ua">УКР</option>
+							</select> -->
+
+							<!-- v2: button -->
+							<span id="sp3" class="tooltiptext"></span>
+							<input type="image" id="flag" src="" width="30" height="20" onclick=""/>
+						</div>
+
 						<a id="n_link">© 2021&nbsp;&nbsp;</a>
 						<a id="link" class="text-dark" href="https://github.com/BGDNkl/">BGDNkl</a>
 					</div>	
@@ -191,6 +228,124 @@
 	$(document).ready(function() {
 		$('[data-toggle="tooltip"]').tooltip();
 	});
+	
+	var lang;
+
+	// Language switch via button
+	function changeLang(str) {
+		//var lng = document.getElementById("lang_selector").value;
+		var ttl = document.getElementById("ttl");
+		var rp = document.getElementById("rp");
+		var head_tdy = document.getElementById("head_tdy");
+		var head_all = document.getElementById("head_all");
+		var lft1 = document.getElementById("lft-1");
+		var lft2 = document.getElementById("lft-2");
+		var lft3 = document.getElementById("lft-3");
+		var lft4 = document.getElementById("lft-4");
+		var lft5 = document.getElementById("lft-5");
+		var my_btn = document.getElementById("my_btn");
+		var sp1 = document.getElementById("sp1");
+		var sp2 = document.getElementById("sp2");
+		var obj = document.getElementById("obj");
+		var btn = document.getElementById("flag");
+		var spn = document.getElementById("sp3");
+		var sp1 = document.getElementById("sp4");
+		var sp2 = document.getElementById("sp5");
+		var dt1 = document.getElementById("my_dot_1");
+		var dt2 = document.getElementById("my_dot_2");
+		
+		switch (str)
+		{
+			case 'en':
+				ttl.textContent = "COVID-19 pandemic in Ukraine";
+				rp.innerHTML = "Report for:";
+				head_tdy.innerHTML = "Per day:";
+				head_all.innerHTML = "Overall:";
+				lft1.innerHTML = "Cases:";
+				lft2.innerHTML = "Recovered:";
+				lft3.innerHTML = "Died:";
+				lft4.innerHTML = "Tests:";
+				lft5.innerHTML = "Vaccinated:";
+				my_btn.innerHTML = "See the Government Reports";
+				sp1.innerHTML = "Data from the temporarily occupied territories of the Autonomous Republic of Crimea, Donetsk, Luhansk oblasts and the city of Sevastopol are missing";
+				sp2.innerHTML = "If you see this sign \"?\" – it means that the official source did not specify this data in today's report";
+				obj.data = "img/map_en.php";
+				btn.src = "img/UA.png";
+				btn.setAttribute('onclick',"changeLang('ua')");
+				spn.innerHTML = "Версія українською";
+				sp1.innerHTML = "Show \"Percentage of morbidity by region\"";
+				sp2.innerHTML = "Show \"Infected population density by region\"";
+				lang = 'en';
+				dt1.style.fill='#363636';
+				dt2.style.fill='#686868';
+				break;
+			case 'ua':
+				ttl.textContent = "Пандемія COVID-19 в Україні";
+				rp.innerHTML = "Дані за:";
+				head_tdy.innerHTML = "За добу:";
+				head_all.innerHTML = "Усього:";
+				lft1.innerHTML = "Випадків:";
+				lft2.innerHTML = "Одужали:";
+				lft3.innerHTML = "Померло:";
+				lft4.innerHTML = "Тестів:";
+				lft5.innerHTML = "Щеплено:";
+				my_btn.innerHTML = "Перейти на сайт МОЗ України";
+				sp1.innerHTML = "Дані з тимчасово окупованих територій Автономної Республіки Крим, Донецької, Луганської областей та міста Севастополя відсутні.";
+				sp2.innerHTML = "Якщо ви бачите цей знак \"?\"- це означає, що офіційне джерело не вказало ці дані в сьогоднішньому звіті";
+				obj.data = "img/map_ua.php";
+				btn.src = "img/GB.png";
+				btn.onclick = "changeLang('en')";
+				btn.setAttribute('onclick',"changeLang('en')");
+				spn.innerHTML = "English version";
+				sp1.innerHTML = "Показати \"Відсоток захворюваності по регіонах\"";
+				sp2.innerHTML = "Показати \"Щільність інфікованого населення по регіонах\"";
+				lang = 'ua';
+				dt1.style.fill='#363636';
+				dt2.style.fill='#686868';
+				break;
+			default:
+			ttl.innerHTML = "COVID-19 pandemic in Ukraine";
+				rp.innerHTML = "Report for:";
+				head_tdy.innerHTML = "Per day:";
+				head_all.innerHTML = "Overall:";
+				lft1.innerHTML = "Cases:";
+				lft2.innerHTML = "Recovered:";
+				lft3.innerHTML = "Died:";
+				lft4.innerHTML = "Tests:";
+				lft5.innerHTML = "Vaccinated:";
+				my_btn.innerHTML = "See the Government Reports";
+				sp1.innerHTML = "Data from the temporarily occupied territories of the Autonomous Republic of Crimea, Donetsk, Luhansk oblasts and the city of Sevastopol are missing";
+				sp2.innerHTML = "If you see this sign \"?\" – it means that the official source did not specify this data in today's report";  
+				obj.data = "img/map_en.php"; 
+				btn.src = "img/UA.png";
+				btn.onclick = "changeLang('ua')";
+				btn.setAttribute('onclick',"changeLang('ua')");
+				spn.innerHTML = "Версія українською";
+				sp1.innerHTML = "Show \"Percentage of morbidity by region\"";
+				sp2.innerHTML = "Show \"Infected population density by region\"";
+				lang = 'en';
+		}
+	}
+	
+	function changeMap(int) {
+		if (int == 1) {
+			document.getElementById("my_dot_1").style.fill='#363636';
+			document.getElementById("my_dot_2").style.fill='#686868';
+
+			if (lang == 'en') 
+				document.getElementById("obj").data = "img/map_en.php";
+			else
+				document.getElementById("obj").data = "img/map_ua.php";
+		} else {
+			document.getElementById("my_dot_2").style.fill='#363636';
+			document.getElementById("my_dot_1").style.fill='#686868';
+
+			if (lang == 'en')
+				document.getElementById("obj").data = "img/map_density_en.php";
+			else
+				document.getElementById("obj").data = "img/map_density_ua.php";
+		}
+	}
 	</script>
 </body>
 </html>

@@ -3,11 +3,11 @@
 <svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="30" height="30"
 	 viewBox="0 0 1024 1024" style="enable-background:new 0 0 1024 1024;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#FFFFFF;}
-	.st1{fill:none;stroke:#FFFFFF;stroke-width:70;stroke-linecap:round;stroke-miterlimit:10;}
-	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
-	.st3{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:70;stroke-linecap:round;stroke-miterlimit:10;}
-	.st4{fill:#56606b;stroke:#FFFFFF;stroke-linecap:round;stroke-miterlimit:10;}
+	.st0{fill:#f3f3d7;}
+	.st1{fill:none;stroke:#f3f3d7;stroke-width:70;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#f3f3d7;}
+	.st3{fill:#f3f3d7;stroke:#f3f3d7;stroke-width:70;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{fill:#56606b;stroke:#f3f3d7;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
 <g>
 	<path class="st0" d="M513,782c-75.1,0-145.6-29.2-198.7-82.3C261.2,646.6,232,576.1,232,501s29.2-145.6,82.3-198.7

@@ -9,11 +9,10 @@
 	curl_close($c);    
 	
 	$lines = file($PATH);
-	$disallowed = 'абгґдеєжзиіїйклмнопрстуфхцчшщьюя&nbspdahgrtvico;<>-_+:;*\/?!|" ';
-	//$st = (int)find_line("даними Центру", $PATH);
+	$disallowed = 'абвгґдеєжзиіїйклмнопрстуфхцчшщьюя&nbspdahgrtvico;<>-_+:;*\/?!|" ';
 	$report_date = str_replace(' </div>', '', translate($lines[(int)find_line("article__views-cnt-date", $PATH)]));
-	$vac_all = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("(від початку кампанії)", $PATH) + 2], '<strong>', '</strong>')));
-	$vac_tdy = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("(за добу):", $PATH) + 2], '<strong> ', '</strong>')));
+	$vac_all = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("Від початку ", $PATH) - 1], 'Від початку', '. ')));
+	$vac_tdy = parse_string(str_replace(str_split($disallowed), '', between_strings($lines[(int)find_line("Від початку ", $PATH) - 1], '1 року ', ' щ')));
 	$test_all = parse_string(str_replace(str_split($disallowed), '', $lines[(int)find_line("проведено ПЛР-тестувань", $PATH) + 4]));
 	$test_tdy = parse_string(str_replace(str_split($disallowed), '', $lines[(int)find_line("Здійснено тестувань за добу", $PATH) + 3]));
 	
@@ -40,20 +39,39 @@
 		}
 		$x += $x_line;
 	}
-
-	// for ($i = 0; $i < 26; $i++) {
-	// 	echo $i . ") <br>";
-	// 	for ($j = 0; $j < 6; $j++) {
-	// 		echo $data_table[$i][$j] . "     ";
-	// 	}
-	// 	echo "<br>";
-	// }
-
+	
 	$procents = [];	
 	for ($i = 1; $i < 26; $i++)
 	{
 		$procents[$i] = (float)((float)$data_table[$i][0] / ((float)$data_table[0][0] / 100));
 	}
+
+	$density = [];	
+	$density[0] = floor((int)$data_table[1][0] / 839);
+	$density[1] = floor((int)$data_table[1][0] / 26513);
+	$density[2] = floor((int)$data_table[1][0] / 20144);
+	$density[3] = floor((int)$data_table[1][0] / 31914);
+	$density[4] = floor((int)$data_table[1][0] / 26517);
+	$density[5] = floor((int)$data_table[1][0] / 29832);
+	$density[6] = floor((int)$data_table[1][0] / 12777);
+	$density[7] = floor((int)$data_table[1][0] / 27180);
+	$density[8] = floor((int)$data_table[1][0] / 13900);
+	$density[9] = floor((int)$data_table[1][0] / 28131);
+	$density[10] = floor((int)$data_table[1][0] / 24588);
+	$density[11] = floor((int)$data_table[1][0] / 26684);
+	$density[12] = floor((int)$data_table[1][0] / 21833);
+	$density[13] = floor((int)$data_table[1][0] / 24598);
+	$density[14] = floor((int)$data_table[1][0] / 33310);
+	$density[15] = floor((int)$data_table[1][0] / 28748);
+	$density[16] = floor((int)$data_table[1][0] / 20047);
+	$density[17] = floor((int)$data_table[1][0] / 23834);
+	$density[18] = floor((int)$data_table[1][0] / 13823);
+	$density[19] = floor((int)$data_table[1][0] / 31415);
+	$density[20] = floor((int)$data_table[1][0] / 28461);
+	$density[21] = floor((int)$data_table[1][0] / 20645);
+	$density[22] = floor((int)$data_table[1][0] / 20900);
+	$density[23] = floor((int)$data_table[1][0] / 8097);
+	$density[24] = floor((int)$data_table[1][0] / 31865);
 
 	
 	// F U N C T I O N S	

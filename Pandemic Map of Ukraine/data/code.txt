@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="csrf-param" content="_csrf">
-<meta name="csrf-token" content="tDx7iJkxCVQDasSMMBtd0MOjhSCa_l_3xzTLUFamW83tS0nh8wB6ZWA9rvpnVGydjvfIUvaGMbOec6EhM_wI-Q==">
+<meta name="csrf-token" content="yD3mx3b7I2NfI29cOkZ6oEBcpqpd-Lz22h59fqIGLcuQe7OhF7hCJTdHJGp7IxuTIhv_2Bm3iLuwSylK41JMnA==">
 <title>Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV</title>
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -195,7 +195,7 @@
 <text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 105.8436)">
 охорони
 </text>
- <text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 167.8436)">
+<text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 167.8436)">
 здоров’я
 </text>
 <text class="header__logo-svg-icon-st0 header__logo-svg-icon-st1 header__logo-svg-icon-st2" transform="matrix(1 0 0 1 105.0788 229.8436)">
@@ -218,7 +218,7 @@
 <div class="header__logo-small"></div>
 <i class="header__logo-svg-small fill_black">
 <svg class="icon icon__logo_trezub">
-<use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__logo_trezub"></use>
+ <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__logo_trezub"></use>
 </svg>
 </i>
 <div class="header__logo-stripe-wrap">
@@ -358,7 +358,7 @@
 <svg class="icon icon__fb">
 <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon__fb"></use>
 </svg>
- </i>
+</i>
 </a>
 <a class="header__social-mobile-logo" href="https://www.youtube.com/channel/UC-kYPlo9h8F2--Xyesbh-8w">
 <i class="header__social-mobile-svg fill_blue-light-to-black fill_contrast_blue-light-to-black">
@@ -457,7 +457,7 @@
 <h4 class="article__views-heading h4 font_black">Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV</h4>
 <div class="article__views-cnt font_gray-to-black regular">
 <div class="article__views-cnt-date">
-15 квітня 2021 </div>
+16 квітня 2021 </div>
 <div class="article__views-cnt-amount">
 <div class="article__views-cnt-amount-icon">
 <i class="article__views-cnt-amount-svg fill_gray-to-black">
@@ -466,99 +466,17 @@
 </svg>
 </i>
 </div>
-<div class="article__views-cnt-amount-number">972490</div>
+<div class="article__views-cnt-amount-number">991559</div>
 </div>
 <div class="article__views-cnt-icons">
- </div>
+</div>
 </div>
 </div>
 <div class="medical__vacancy-desc">
 <div class="editor">
-<p>За даними Центру громадського здоров&rsquo;я, станом на 15&nbsp;квітня&nbsp;в&nbsp;Україні зафіксовано <strong>16427 </strong>нових підтверджених випадків коронавірусної хвороби COVID-19 (з них дітей &ndash; <strong>628,</strong> медпрацівників &ndash; <strong>383)</strong>. Кількість активних хворих -&nbsp;<strong>411 341 особа.</strong></p>
-<table border="1" cellpadding="0" cellspacing="0" style="width:680px">
-<tbody>
-<tr>
-<td style="height:18px; width:473px">
-<p><strong>Кількість вакцинованих осіб від COVID-19 осіб&nbsp;&nbsp;(від початку кампанії):</strong></p>
-</td>
-<td style="height:18px; width:208px">
-<p><strong>419 297</strong></p>
-</td>
-</tr>
-<tr>
-<td style="height:10px; width:473px">
-<p>із них отримали 1 дозу, усього</p>
-</td>
-<td style="height:10px; width:208px">
-<p>419 295</p>
-</td>
-</tr>
-<tr>
-<td style="height:9px; width:473px">
-<p>із них завершили вакцинацію (отримали 2 дозу), усього</p>
-</td>
-<td style="height:9px; width:208px">
-<p>5</p>
-</td>
-</tr>
-<tr>
-<td style="height:9px; width:473px">
-<p>із них щеплено вакциною КОВІШЕЛД, усього</p>
-</td>
-<td style="height:9px; width:208px">
-<p>419 084</p>
-</td>
-</tr>
-<tr>
-<td style="height:9px; width:473px">
-<p>із них щеплено вакциною КОРОНАВАК, усього</p>
-</td>
-<td style="height:9px; width:208px">
-<p>213</p>
-</td>
-</tr>
-<tr>
-<td style="height:9px; width:473px">
-<p><strong>Кількість вакцинованих від COVID-19 осіб (за добу):</strong></p>
-</td>
-<td style="height:9px; width:208px">
-<p><strong>15 744</strong></p>
-</td>
-</tr>
-<tr>
-<td style="height:18px; width:473px">
-<p>із них отримали 1 дозу, усього</p>
-</td>
-<td style="height:18px; width:208px">
-<p>15 744</p>
-</td>
-</tr>
-<tr>
-<td style="height:8px; width:473px">
-<p>із них завершили вакцинацію (отримали 2&nbsp; дозу), усього</p>
-</td>
-<td style="height:8px; width:208px">
-<p>0</p>
-</td>
-</tr>
-<tr>
-<td style="height:8px; width:473px">
-<p>із них щеплено вакциною КОВІШЕЛД, усього</p>
-</td>
-<td style="height:8px; width:208px">
-<p>15 536</p>
-</td>
-</tr>
-<tr>
-<td style="height:8px; width:473px">
-<p>із них щеплено вакциною КОРОНАВАК, усього</p>
-</td>
-<td style="height:8px; width:208px">
-<p>208</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p>За даними Центру громадського здоров&rsquo;я, станом на 16&nbsp;квітня&nbsp;в&nbsp;Україні&nbsp;зафіксовано <strong>17479 </strong>нових підтверджених випадків коронавірусної хвороби COVID-19 (з них дітей &ndash; <strong>709,</strong> медпрацівників &ndash; <strong>378)</strong>. Кількість активних хворих -&nbsp;<strong>416 328&nbsp;</strong>особи.</p>
+<p>Від початку кампанії проведено усього 432 820 щеплень. Було щеплено 432 817 осіб: отримали 1 дозу &ndash; 432 815 осіб, завершили вакцинацію (отримали 2 дози) &ndash; 5 осіб (із них 2 осіб отримали 1 дозу закордоном); щеплено вакциною КОВІШЕЛД &ndash; 431 809 осіб, вакциною КОРОНАВАК &ndash; 1 008 осіб. За 15 квітня 2021 року проведено усього 13 520 щеплень. Було щеплено 13 520 осіб: отримали 1 дозу &ndash; 13 520 осіб, завершили вакцинацію (отримали 2 дози) &ndash; 0 осіб; щеплено вакциною КОВІШЕЛД &ndash; 12 725 осіб, вакциною КОРОНАВАК &ndash; 795 осіб.</p>
+<p>&nbsp;</p>
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
@@ -575,7 +493,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>4229</p>
+<p>4348</p>
 </td>
 </tr>
 <tr>
@@ -587,7 +505,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>433</p>
+<p>438</p>
 </td>
 </tr>
 <tr>
@@ -599,7 +517,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>11148</p>
+<p>12054</p>
 </td>
 </tr>
 <tr>
@@ -608,7 +526,7 @@
 <p>&nbsp;&nbsp; в т. ч.:</p>
 </td>
 <td style="width:104px">
-<p>119&nbsp;615</p>
+<p>109&nbsp;584</p>
 </td>
 </tr>
 <tr>
@@ -620,7 +538,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>51344</p>
+<p>47421</p>
 </td>
 </tr>
 <tr>
@@ -632,11 +550,11 @@
 </div>
 </td>
 <td style="height:25px; width:104px">
-<p>20017</p>
+<p>19030</p>
 </td>
 </tr>
 <tr>
-<td style="height:25px; width:294px">
+<td style="height:25px; width:294px"> 
 <div style="margin-left:18.0pt">
 <ul>
 <li>досліджень експрес-тестами на антиген до SARS-CoV-2</li>
@@ -644,7 +562,7 @@
 </div>
 </td>
 <td style="height:25px; width:104px">
-<p>48&nbsp;254</p>
+<p>43&nbsp;133</p>
 </td>
 </tr>
 <tr>
@@ -666,7 +584,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>1903765</p>
+<p>1921244</p>
 </td>
 </tr>
 <tr>
@@ -678,7 +596,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>1453766</p>
+<p>1465820</p>
 </td>
 </tr>
 <tr>
@@ -690,7 +608,7 @@
 </div>
 </td>
 <td style="width:104px">
-<p>38658</p>
+<p>39096</p>
 </td>
 </tr>
 <tr>
@@ -702,12 +620,13 @@
 </div>
 </td>
 <td style="width:104px">
-<p>8822097</p>
+<p>8869518</p>
 </td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<div>&nbsp;</div>
 <div>
 <p><strong>Розподіл випадків COVID-19 по регіонах України</strong></p>
 </div>
@@ -753,32 +672,32 @@
 </td>
 <td style="height:11px; width:13.06%">
 <div>
-<p><strong>1903765</strong></p>
+<p><strong>1921244</strong></p>
 </div>
 </td>
 <td style="height:11px; width:12.04%">
 <div>
-<p><strong>16427</strong></p>
+<p><strong>17479</strong></p>
 </div>
 </td>
 <td style="height:11px; width:11.48%">
 <div>
-<p><strong>38658</strong></p>
+<p><strong>39096</strong></p>
 </div>
 </td>
 <td style="height:11px; width:12.04%">
 <div>
-<p><strong>433</strong></p>
+<p><strong>438</strong></p>
 </div>
 </td>
 <td style="height:11px; width:13.06%">
 <div>
-<p><strong>1453766</strong></p>
+<p><strong>1465820</strong></p>
 </div>
 </td>
 <td style="height:11px; width:12.04%">
 <div>
-<p><strong>11148</strong></p>
+<p><strong>12054</strong></p>
 </div>
 </td>
 </tr>
@@ -788,32 +707,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>181691</p>
+<p>183300</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>1625</p>
+<p>1609</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>4072</p>
+<p>4121</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>51</p>
+<p>49</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>113240</p>
+<p>114396</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>706</p>
+<p>1156</p>
 </div>
 </td>
 </tr>
@@ -823,27 +742,97 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>64171</p>
+<p>64575</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>450</p>
+<p>404</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1343</p>
+<p>1363</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>15</p>
+<p>20</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>43045</p>
+<p>43647</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>602</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Волинська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>52841</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>426</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>889</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>4</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>44131</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>275</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Дніпропетровська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>108515</p>
+</div> 
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>1332</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>2822</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>46</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>82112</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
@@ -854,106 +843,36 @@
 </tr>
 <tr>
 <td style="height:2px; width:26.28%">
-<p>Волинська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>52415</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>397</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%"> 
-<div>
-<p>885</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>6</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>43856</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>255</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Дніпропетровська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>107183</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>1005</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>2776</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>31</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>81707</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>437</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
 <p>Донецька</p>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>69968</p>
+<p>70654</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>961</p>
+<p>686</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1484</p>
+<p>1500</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>20</p>
+<p>16</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>53839</p>
+<p>54137</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>413</p>
+<p>298</p>
 </div>
 </td>
 </tr>
@@ -963,32 +882,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>79504</p>
+<p>80034</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>648</p>
+<p>530</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1425</p>
+<p>1435</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>14</p>
+<p>10</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>58736</p>
+<p>59255</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>476</p>
+<p>519</p>
 </div>
 </td>
 </tr>
@@ -998,32 +917,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>58249</p>
+<p>58411</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>305</p>
+<p>162</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1458</p>
+<p>1462</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>7</p>
+<p>4</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>47624</p>
+<p>48058</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>358</p>
+<p>434</p>
 </div>
 </td>
 </tr>
@@ -1033,227 +952,17 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>87954</p>
+<p>88741</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>1015</p>
+<p>787</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1650</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>24</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>71164</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>155</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Івано-Франківська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>82252</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>194</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>1872</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>8</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>72599</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>614</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Київська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>109219</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>835</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>2010</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>39</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>85726</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>926</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Кіровоградська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>15502</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>183</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>539</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>6</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>9933</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>28</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Луганська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>20405</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>292</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>600</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>5</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>16375</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>130</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Львівська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>120288</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>748</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>2950</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>17</p>
-</div>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>87872</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>473</p>
-</div>
-</td>
-</tr>
-<tr>
-<td style="height:2px; width:26.28%">
-<p>Миколаївська</p>
-</td>
-<td style="height:2px; width:13.06%">
-<div>
-<p>57632</p>
-</div>
-</td>
-<td style="height:2px; width:12.04%">
-<div>
-<p>404</p>
-</div>
-</td>
-<td style="height:2px; width:11.48%">
-<div>
-<p>1364</p>
+<p>1668</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
@@ -1263,12 +972,222 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>45597</p>
+<p>71357</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>448</p>
+<p>193</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Івано-Франківська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>82402</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>150</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>1884</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>12</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>73235</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>636</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Київська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>110145</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>926</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>2043</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>33</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>86735</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>1009</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Кіровоградська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>15684</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>182</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>546</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>7</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>9974</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>41</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Луганська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>20695</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>290</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>612</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>12</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>16522</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>147</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Львівська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>121653</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>1365</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>2975</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>25</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>88725</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>853</p>
+</div>
+</td>
+</tr>
+<tr>
+<td style="height:2px; width:26.28%">
+<p>Миколаївська</p>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>58032</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>400</p>
+</div>
+</td>
+<td style="height:2px; width:11.48%">
+<div>
+<p>1385</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>21</p>
+</div>
+</td>
+<td style="height:2px; width:13.06%">
+<div>
+<p>45943</p>
+</div>
+</td>
+<td style="height:2px; width:12.04%">
+<div>
+<p>346</p>
 </div>
 </td>
 </tr>
@@ -1278,32 +1197,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>123449</p>
+<p>124764</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>881</p>
+<p>1315</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>2188</p>
+<p>2221</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>34</p>
+<p>33</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>87990</p>
+<p>88363</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>153</p>
+<p>373</p>
 </div>
 </td>
 </tr>
@@ -1313,32 +1232,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>64039</p>
+<p>64727</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>627</p>
+<p>688</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1350</p>
+<p>1359</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>17</p>
+<p>9</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>52508</p>
+<p>53036</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>707</p>
+<p>528</p>
 </div>
 </td>
 </tr>
@@ -1348,32 +1267,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>65284</p>
+<p>65838</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>505</p>
+<p>554</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>889</p>
+<p>901</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>6</p>
+<p>12</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>55553</p>
+<p>55986</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>386</p>
+<p>433</p>
 </div>
 </td>
 </tr>
@@ -1383,32 +1302,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>66916</p>
+<p>67639</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>644</p>
+<p>723</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>948</p>
+<p>956</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>3</p>
+<p>8</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>54798</p>
+<p>55219</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>529</p>
+<p>421</p>
 </div>
 </td>
 </tr>
@@ -1418,32 +1337,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>61894</p>
+<p>62354</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>403</p>
+<p>460</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>955</p>
+<p>965</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>2</p>
+<p>10</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>50569</p>
+<p>51135</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>524</p>
+<p>566</p>
 </div>
 </td>
 </tr>
@@ -1453,32 +1372,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>121086</p>
+<p>122463</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>1168</p>
+<p>1377</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>2312</p>
+<p>2342</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>29</p>
+<p>30</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>94319</p>
+<p>95006</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>1004</p>
+<p>687</p>
 </div>
 </td>
 </tr>
@@ -1488,32 +1407,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>28028</p>
+<p>28344</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>324</p>
+<p>316</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>786</p>
+<p>787</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>15</p>
+<p>1</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>22606</p>
+<p>22709</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>158</p>
+<p>103</p>
 </div>
 </td>
 </tr>
@@ -1523,32 +1442,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>76480</p>
+<p>77372</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>1088</p>
+<p>892</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1400</p>
+<p>1423</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>22</p>
+<p>23</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>58842</p>
+<p>59659</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>720</p>
+<p>817</p>
 </div>
 </td>
 </tr>
@@ -1558,32 +1477,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>67015</p>
+<p>67968</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>747</p>
+<p>953</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>873</p>
+<p>893</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>20</p>
+<p>20</p> 
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>53860</p>
+<p>54219</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>512</p>
+<p>359</p>
 </div>
 </td>
 </tr>
@@ -1593,32 +1512,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>74555</p>
+<p>74831</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>252</p>
+<p>276</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>1541</p>
+<p>1546</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>11</p>
+<p>5</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>54607</p>
+<p>54951</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>350</p>
+<p>344</p>
 </div>
 </td>
 </tr>
@@ -1628,32 +1547,32 @@
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>48586</p>
+<p>49262</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>726</p>
+<p>676</p>
 </div>
 </td>
 <td style="height:2px; width:11.48%">
 <div>
-<p>988</p>
+<p>998</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>13</p>
+<p>10</p>
 </div>
 </td>
 <td style="height:2px; width:13.06%">
 <div>
-<p>36801</p>
+<p>37310</p>
 </div>
 </td>
 <td style="height:2px; width:12.04%">
 <div>
-<p>281</p>
+<p>509</p>
 </div>
 </td>
 </tr>
@@ -1840,7 +1759,7 @@
 </div>
 <div class="material">
 <form id="useful-answer-form" action="/useful/submit" method="post">
-<input type="hidden" name="_csrf" value="tDx7iJkxCVQDasSMMBtd0MOjhSCa_l_3xzTLUFamW83tS0nh8wB6ZWA9rvpnVGydjvfIUvaGMbOec6EhM_wI-Q==">
+<input type="hidden" name="_csrf" value="yD3mx3b7I2NfI29cOkZ6oEBcpqpd-Lz22h59fqIGLcuQe7OhF7hCJTdHJGp7IxuTIhv_2Bm3iLuwSylK41JMnA==">
 <input type="hidden" id="usefulanswers-entity_model_name" class="form-control" name="UsefulAnswers[entity_model_name]" value="News">
 <input type="hidden" id="usefulanswers-entity_model_id" class="form-control" name="UsefulAnswers[entity_model_id]" value="10265">
 <input type="hidden" id="usefulanswers-entity_model_label" class="form-control" name="UsefulAnswers[entity_model_label]" value="Оперативна інформація про поширення коронавірусної інфекції 2019-nCoV">
@@ -2019,7 +1938,7 @@ Email </div>
 </div>
 </div>
 <form id="subscribe-form" class="press__subscribe-form" action="/subscribe" method="post">
-<input type="hidden" name="_csrf" value="tDx7iJkxCVQDasSMMBtd0MOjhSCa_l_3xzTLUFamW83tS0nh8wB6ZWA9rvpnVGydjvfIUvaGMbOec6EhM_wI-Q==">
+<input type="hidden" name="_csrf" value="yD3mx3b7I2NfI29cOkZ6oEBcpqpd-Lz22h59fqIGLcuQe7OhF7hCJTdHJGp7IxuTIhv_2Bm3iLuwSylK41JMnA==">
 <div class="form-group press__subscribe-form-wrapper field-subscribe-email required">
 <div class="form-label help-block press__subscribe-form-label regular"></div>
 <input type="text" id="subscribe-email" class="form-input press__subscribe-form-input regular font_gray-to-black bg_white-to-light-blue" name="Subscribe[email]" maxInput placeholder="E-mail" aria-required="true">
@@ -2079,7 +1998,7 @@ Email </div>
 (044) 253-40-17 </a>
 </div>
 <div class="footer__str">
-<a class="regular-small font_white" href="/cdn-cgi/l/email-protection#e78a889da78a889dc9808891c99286"><span class="__cf_email__" data-cfemail="b1dcdecbf1dcdecb9fd6dec79fc4d0">[email&#160;protected]</span></a>
+<a class="regular-small font_white" href="/cdn-cgi/l/email-protection#335e5c49735e5c491d545c451d4652"><span class="__cf_email__" data-cfemail="9ff2f0e5dff2f0e5b1f8f0e9b1eafe">[email&#160;protected]</span></a>
 </div>
 <div class="footer__str footer__str_pt">
 <span class="regular-small font_white">Контакт-центр МОЗ з питань COVID-19</span>
@@ -2211,7 +2130,7 @@ Email </div>
 <g>
 <path class="footer__logo-svg-icon-st0" d="M210,179.8v3.3h-3.4v-3.3H210z"></path>
 </g>
-<rect class="footer__logo-svg-icon-st3" x="76.6" y="114.7" width="5.1" height="115.2"></rect>
+ <rect class="footer__logo-svg-icon-st3" x="76.6" y="114.7" width="5.1" height="115.2"></rect>
 <rect class="footer__logo-svg-icon-st4" x="76.6" y="0.3" width="5.1" height="114.6"></rect>
 </svg>
 </div>
