@@ -188,6 +188,13 @@
 
 	<!-- Scripts: -->	
 	<script>
+	
+	// check device
+	if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )     
+	{
+	   var url = "m_index.php";    
+	   $(location).attr('href',url);
+	}
 		
 	// New popup window in center 
     function myPopup(title, myWidth, myHeight) {
@@ -229,11 +236,8 @@
 		$('[data-toggle="tooltip"]').tooltip();
 	});
 	
-	var lang;
-
 	// Language switch via button
 	function changeLang(str) {
-		//var lng = document.getElementById("lang_selector").value;
 		var ttl = document.getElementById("ttl");
 		var rp = document.getElementById("rp");
 		var head_tdy = document.getElementById("head_tdy");
